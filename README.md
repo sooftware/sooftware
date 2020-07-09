@@ -1,7 +1,16 @@
 ### Soohwan Kim @sooftware  
   
-👋 Hi! Welcome to my github profile.
+👋 Hi! Welcome to my github profile. I'm an B.S student in Electronic and Communication engineering at Kwangwoon Univ.  
+And, I`m a undergraduate researcher at Spoken Language Lab (of Sogang). My interests are Automatic Speech Recognition and Software Development.  
+  
+### 🔭 Languages  
+* C (intermidiate)  
+* C++ (beginner)  
+* Java (intermidiate)  
+* Android (intermidiate)  
+* Python (intermidiate)  
 
+  
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
