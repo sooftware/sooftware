@@ -6,9 +6,9 @@ My interests are Speech field ( Recognition / Synthesis / Identification ) and S
 
   
 ### 🔭 Languages  
+* Android (intermidiate)  
 * C/C++ (intermidiate, beginner)  
 * Java (intermidiate)  
-* Android (intermidiate)  
 * Python (intermidiate)  
 * Shell (beginner)
 
