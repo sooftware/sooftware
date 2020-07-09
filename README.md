@@ -10,6 +10,7 @@ My interests are Speech field ( Recognition / Synthesis / Identification ) and S
 * Java (intermidiate)  
 * Android (intermidiate)  
 * Python (intermidiate)  
+* Shell (beginner)
 
   
 <!--
