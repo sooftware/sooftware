@@ -15,7 +15,8 @@ I pursue a simple, readable and extensible code.
 
 ### 📫 Contact
 * blog: https://blog.naver.com/sooftware
-* E-mail: sh951011@gmail.com
+* email: sh951011@gmail.com
+* facebook: www.facebook.com/sooftware95
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
