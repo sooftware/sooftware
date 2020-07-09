@@ -6,10 +6,10 @@ My interests are Speech Recognition, Natural Language Processing and Software De
 
   
 ### 🔭 Languages  
-* Android (intermidiate)  
-* C/C++ (intermidiate, beginner)  
-* Java (intermidiate)  
-* Python (intermidiate)  
+* Android (intermediate)  
+* C/C++ (intermediate, beginner)  
+* Java (intermediate)  
+* Python (intermediate)  
 * Shell (beginner)
 
   
