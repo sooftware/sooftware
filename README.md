@@ -12,7 +12,9 @@ My interests are Speech Recognition, Natural Language Processing and Software De
 * Python (intermediate)  
 * Shell (beginner)
 
-  
+### 📫 Contact
+* blog: https://blog.naver.com/sooftware
+* E-mail: sh951011@gmail.com
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
