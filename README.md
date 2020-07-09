@@ -13,7 +13,7 @@ I pursue a simple, readable and extensible code.
 * Shell (beginner)
 * SQL (intermediate)  
 
-### 📫 Contact
+### 📫 How to reach me
 * blog: https://blog.naver.com/sooftware
 * email: sh951011@gmail.com
 * facebook: www.facebook.com/sooftware95
