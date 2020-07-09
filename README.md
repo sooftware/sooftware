@@ -4,8 +4,7 @@
 And, I`m a undergraduate researcher at Spoken Language Lab (of Sogang). My interests are Automatic Speech Recognition and Software Development.  
   
 ### 🔭 Languages  
-* C (intermidiate)  
-* C++ (beginner)  
+* C/C++ (intermidiate, beginner)  
 * Java (intermidiate)  
 * Android (intermidiate)  
 * Python (intermidiate)  
