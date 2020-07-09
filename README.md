@@ -11,6 +11,7 @@ My interests are Speech Recognition, Natural Language Processing and Software De
 * Java (intermediate)  
 * Python (intermediate)  
 * Shell (beginner)
+* SQL (intermediate)  
 
 ### 📫 Contact
 * blog: https://blog.naver.com/sooftware
