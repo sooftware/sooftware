@@ -1,6 +1,6 @@
 ### Soohwan Kim @sooftware  
   
-👋 Hi! Welcome to my github profile. I'm an undergraduate student in electronic and communication engineering at Kwangwoon Univ.   
+👋 Hi! Welcome to my github page. I'm an undergraduate student in electronic and communication engineering at Kwangwoon Univ.   
 and I`m a undergraduate researcher at Spoken Language Lab (of Sogang Univ).   
 My interests are automatic speech recognition, natural language processing and software development.   
 I pursue a simple, readable and extensible code.  
