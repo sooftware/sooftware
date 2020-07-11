@@ -14,10 +14,10 @@ I pursue a simple, readable and extensible code.
 * SQL (intermediate)  
 
 ### 📫 How to reach me
-* cv: https://sooftware.github.io/
-* blog: https://blog.naver.com/sooftware
-* email: sh951011@gmail.com
-* facebook: www.facebook.com/sooftware95
+* Curriculum Vitae: https://sooftware.github.io/
+* Blog: https://blog.naver.com/sooftware
+* Email: sh951011@gmail.com
+* Facebook: www.facebook.com/sooftware95
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
