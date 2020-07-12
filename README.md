@@ -17,7 +17,7 @@ I pursue a simple, readable and extensible code.
 * Blog: [click](https://blog.naver.com/sooftware)
 * Curriculum Vitae: [click](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
 * Email: sh951011@gmail.com
-* Facebook: [click](www.facebook.com/sooftware95)
+* Facebook: [click](https://facebook.com/sooftware95)
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
