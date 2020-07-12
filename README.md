@@ -14,8 +14,8 @@ I pursue a simple, readable and extensible code.
 * SQL (intermediate)  
 
 ### 📫 How to reach me
-* CV: [click](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
 * Blog: [click](https://blog.naver.com/sooftware)
+* Curriculum Vitae: [click](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
 * Email: sh951011@gmail.com
 * Facebook: [click](www.facebook.com/sooftware95)
 <!--
