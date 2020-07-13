@@ -15,7 +15,7 @@ I pursue a simple, readable and extensible code.
 
 ### 📫 How to reach me
 * Blog: [click](https://blog.naver.com/sooftware)
-* Curriculum Vitae: [click](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
+* CV: [click](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
 * Email: sh951011@gmail.com
 * Facebook: [click](https://facebook.com/sooftware95)
 <!--
