@@ -18,9 +18,12 @@ I pursue a simple, readable and extensible code.
 * CV: [Click](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
 * Email: sh951011@gmail.com
 * Facebook: [Click](https://facebook.com/sooftware95)
+  
+[![sooftware's github stats](https://github-readme-stats.vercel.app/api?username=sooftware)](https://github.com/anuraghazra/github-readme-stats)
+  
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
