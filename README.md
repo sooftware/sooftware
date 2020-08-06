@@ -11,7 +11,7 @@ My interests are automatic speech recognition, natural language processing and s
 I pursue a simple, readable and extensible code.   
 You can check my CV [here!](https://github.com/sooftware/sooftware/blob/master/CV.pdf)  
   
-### 🔭 Languages  
+### :computer: Languages  
 * Android (intermediate)  
 * C/C++ (intermediate, beginner)  
 * Java (intermediate)  
