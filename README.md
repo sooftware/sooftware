@@ -6,20 +6,19 @@
 * Undergraduate Student in School of elcomm, Kwangwoon University (2014.03 ~ 2021.02 (Expected))
   
 ### :runner: Internships
-I am currently an intern at the Spoken Language Lab at Sogang Univ.  
-My interests are automatic speech recognition, natural language processing and software development.   
-I pursue a simple, readable and extensible code.   
+* Undergraduate researcher at Spoken Language Lab at Sogang Univ. (2020.04 ~ Present)
+  
+### Interest
+* Speech Recognition  
+* Natural Language Processing
+* Software Development
+
 You can check my CV [here!](https://github.com/sooftware/sooftware/blob/master/CV.pdf)  
   
 ### :computer: Languages  
-* Android (intermediate)  
-* C/C++ (intermediate, beginner)  
-* Java (intermediate)  
-* Python (intermediate)  
-* Shell (beginner)
-* SQL (intermediate)  
-  
-![sooftware's github stats](https://github-readme-stats.vercel.app/api?username=sooftware&show_icons=true&hide_border=true)  
+* **Proficient** : C, Java, Python
+* **Intermediate** : Android, SQL
+* **Beginner** : Arduino, C++, Shell Script 
   
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
