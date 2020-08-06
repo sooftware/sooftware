@@ -14,9 +14,9 @@
 * Software Development
   
 ### :computer: Languages  
-* **Proficient** : *C, Java, Python*
-* **Intermediate** : *Android, SQL*
-* **Beginner** : *Arduino, C++, Shell Script* 
+* **Proficient** : *Python, Java, C*
+* **Intermediate** : *Android, C++, SQL*
+* **Beginner** : *Arduino, Shell Script* 
   
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
