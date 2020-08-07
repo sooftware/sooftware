@@ -8,7 +8,7 @@
 ### :runner: Internships
 * Undergraduate researcher at Spoken Language Lab at Sogang Univ. (2020.04 ~ Present)
   
-### Interest
+### :star2: Interest
 * Speech Recognition / Synthesis    
 * Natural Language Processing
 * Software Development
