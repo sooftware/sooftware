@@ -7,7 +7,7 @@
   
 ### :runner: Internships
 * Intern at KakaoBrain (2020.08 ~ 2020.11 (Expected))
-* Intern at Spoken Language Lab (of Sogang Univ.) (2020.04 ~ 2020.08)
+* Undergraduate Researcher at Spoken Language Lab (of Sogang Univ.) (2020.04 ~ 2020.08)
   
 ### :star2: Interest
 * Speech Recognition / Synthesis    
