@@ -6,6 +6,7 @@
 * Undergraduate Student in School of elcomm, Kwangwoon University (2014.03 ~ 2021.02 (Expected))
   
 ### :runner: Internships
+* Intern at KakaoBrain (2020.08 ~ 2020.11 (Expected))
 * Undergraduate researcher at Spoken Language Lab (of Sogang Univ.) (2020.04 ~ 2020.08)
   
 ### :star2: Interest
