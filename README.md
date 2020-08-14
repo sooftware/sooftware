@@ -7,7 +7,7 @@
   
 ### :runner: Internships
 * Intern at <img src="https://www.kakaobrain.com/static/images/logo.png" height=12> (2020.08 ~ 2020.11 (Expected))
-* Undergraduate Researcher at Spoken Language Lab (of Sogang Univ.) (2020.04 ~ 2020.08)
+* Undergraduate Researcher at <img src="http://speech.sogang.ac.kr/wordpress/wp-content/uploads/2018/02/%EC%88%98%EC%A0%95%EB%90%A8_logo3.png" height=12> (of Sogang Univ.) (2020.04 ~ 2020.08)
   
 ### :star2: Interest
 * Speech Recognition / Synthesis    
