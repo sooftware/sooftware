@@ -7,7 +7,7 @@
   
 ### :runner: Internships
 * Intern at [<img src="https://www.kakaobrain.com/static/images/logo.png" height=12>](https://www.kakaobrain.com/) (2020.08 ~ 2020.11 (Expected))
-* Undergraduate Researcher at [<img src="https://user-images.githubusercontent.com/42150335/90272315-31325980-de98-11ea-8e8c-c64e1dac802e.png" height=14>](http://speech.sogang.ac.kr/) (of Sogang Univ.) (2020.04 ~ 2020.08)
+* Undergraduate Researcher at [<img src="https://user-images.githubusercontent.com/42150335/90272586-94bc8700-de98-11ea-8fa9-4b1e61887832.png" height=14>](http://speech.sogang.ac.kr/) (of Sogang Univ.) (2020.04 ~ 2020.08)
   
 ### :star2: Interest
 * Speech Recognition / Synthesis    
