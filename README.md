@@ -6,11 +6,11 @@
 * Senior Student at Kwangwoon University (2014.03 ~ 2021.08 (Expected))  
 * Major in Electronic and Communication, Minor in Data Science  
   
-### :runner: Internships
+### 🌱 Internships
 * Intern at KakaoBrain (2020.08 ~ 2020.11 (Expected))
 * Undergraduate Researcher at SPOKEN LANGUAGE LAB (of Sogang Univ.) (2020.04 ~ 2020.08)
   
-### :star2: Interest
+### 😄 Interest
 * Speech Recognition / Synthesis    
 * Natural Language Processing
 * Software Development  
