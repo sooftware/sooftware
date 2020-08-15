@@ -7,7 +7,7 @@
 * Major in Electronic and Communication, Minor in Data Science  
   
 ### Work Experience
-* Intern at KakaoBrain (2020.08 ~ 2020.11 (Expected))
+* Intern at KakaoBrain (2020.08 ~ 2020.11)
 * Undergraduate Researcher at SPOKEN LANGUAGE LAB (of Sogang Univ.) (2020.04 ~ 2020.08)
   
 ### Interest
