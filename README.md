@@ -4,7 +4,7 @@
   
 ### Education
 * Senior Student at Kwangwoon University (2014.03 ~ 2021.08 (Expected))  
-* Major in Electronic and Communication, Minor in Data Science  
+* Major in Electronic and Communication Engineering, Minor in Data Science  
   
 ### Work Experience
 * Intern at KakaoBrain (2020.08 ~ 2020.11)
