@@ -12,13 +12,7 @@
 ### :star2: Interest
 * Speech Recognition / Synthesis    
 * Natural Language Processing
-* Software Development
-  
-### :computer: Languages  
-* **Proficient** : *Python, Java, C*
-* **Intermediate** : *Android, C++, SQL*
-* **Beginner** : *Arduino, Assembly, Shell Script, HTML, XML* 
-  
+* Software Development  
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
