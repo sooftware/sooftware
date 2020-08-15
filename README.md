@@ -6,8 +6,8 @@
 * Senior Student in School of elcomm, Kwangwoon University (2014.03 ~ 2021.08 (Expected))
   
 ### :runner: Internships
-* Intern at [<img src="https://www.kakaobrain.com/static/images/logo.png" height=12>](https://www.kakaobrain.com/) (2020.08 ~ 2020.11 (Expected))
-* Undergraduate Researcher at [<img src="https://user-images.githubusercontent.com/42150335/90272586-94bc8700-de98-11ea-8fa9-4b1e61887832.png" height=12>](http://speech.sogang.ac.kr/) (of Sogang Univ.) (2020.04 ~ 2020.08)
+* Intern at KakaoBrain (2020.08 ~ 2020.11 (Expected))
+* Undergraduate Researcher at SPOKEN LANGUAGE LAB (of Sogang Univ.) (2020.04 ~ 2020.08)
   
 ### :star2: Interest
 * Speech Recognition / Synthesis    
