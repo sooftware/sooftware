@@ -6,9 +6,10 @@
 * Senior Student at Kwangwoon University (2014.03 ~ 2021.02 (Expected))  
 * Major in Electronic and Communication Engineering, Minor in Data Science  
   
-### Work Experience
+### Experience
 * Intern at KakaoBrain (2020.08 ~ 2020.11)
 * Undergraduate Researcher at SPOKEN LANGUAGE LAB (of Sogang Univ.) (2020.04 ~ 2020.08)
+* Naver AI Hackathon - Speech 12th Ranked (2019.09 ~ 2019.10)
   
 ### Interest
 * Speech Recognition / Synthesis    
