@@ -8,7 +8,7 @@
   
 ### Experience
 * Intern at [KakaoBrain](https://www.kakaobrain.com/) `2020.08 ~ Present`
-* Undergraduate Researcher at [SPOKEN LANGUAGE LAB](http://speech.sogang.ac.kr/) (of Sogang Univ.) `2020.04 ~ 2020.08`
+* Undergraduate Researcher at [SPOKEN LANGUAGE LAB](http://speech.sogang.ac.kr/) `2020.04 ~ 2020.08`
 * [Naver AI Hackathon - Speech](https://campaign.naver.com/aihackathon_speech/) 12th Ranked `2019.09 ~ 2019.10`
   
 ### Interest
