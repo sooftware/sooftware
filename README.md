@@ -7,7 +7,7 @@
 * Major in Electronic and Communication Engineering, Minor in Data Science  
   
 ### Experience
-* Intern at KakaoBrain `2020.08 ~ Present`
+* Intern at Kakao Brain `2020.08 ~ Present`
 * Undergraduate Researcher at SPOKEN LANGUAGE LAB (of Sogang Univ.) `2020.04 ~ 2020.08`
 * Naver AI Hackathon - Speech 12th Ranked `2019.09 ~ 2019.10`
   
