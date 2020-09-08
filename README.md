@@ -11,6 +11,9 @@
 * Undergraduate Researcher at [SPOKEN LANGUAGE LAB](http://speech.sogang.ac.kr/) `2020.04 ~ 2020.08`
 * [Naver AI Hackathon - Speech](https://campaign.naver.com/aihackathon_speech/) 12th Ranked `2019.09 ~ 2019.10`
   
+### Publication
+* [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://arxiv.org/abs/2009.03092)
+  
 ### Interest
 * Speech Recognition / Synthesis    
 * Natural Language Processing
