@@ -12,7 +12,7 @@
 * `2019.09 ~ 2019.10` : [Naver AI Hackathon - Speech](https://campaign.naver.com/aihackathon_speech/) 12th Ranked 
   
 ### Publication
-* KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, *In arXiv, 2020*.
+* [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, *arXiv preprint, 2020*](https://arxiv.org/abs/2009.03092).
   
 ### Interest
 * Speech Recognition / Synthesis    
