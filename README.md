@@ -7,7 +7,7 @@
 * Major in Electronic and Communication Engineering, Minor in Data Science  
   
 ### Career
-* `2020.08 ~ Present` : Intern at [KakaoBrain](https://www.kakaobrain.com/) NLP & Speech team 
+* `2020.08 ~ Present` : Research Intern at [KakaoBrain](https://www.kakaobrain.com/) NLP & Speech Team 
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [SPOKEN LANGUAGE LAB](http://speech.sogang.ac.kr/) 
 * `2019.09 ~ 2019.10` : [Naver AI Hackathon - Speech](https://campaign.naver.com/aihackathon_speech/) 12th Ranked 
   
