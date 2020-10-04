@@ -13,10 +13,10 @@
   
 ### Implementation List
 * [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech)
-* [Tacotron2](https://github.com/sooftware/Tacotron2)
-* [Speech Transformer](https://github.com/sooftware/Speech-Transformer)
-* [Attention Is All You Need](https://github.com/sooftware/Attention-Is-All-You-Need)
-* [Attentions](https://github.com/sooftware/attentions)
+* [Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://github.com/sooftware/Tacotron2)
+* [Speech Transformer: The SpeechTransformer for Large-scale Mandarin Chinese Speech Recognition.](https://github.com/sooftware/Speech-Transformer)
+* [Transformer: Attention Is All You Need](https://github.com/sooftware/Attention-Is-All-You-Need)
+* [Attentions: Dot-product, Additive, Location-aware, Multi-head](https://github.com/sooftware/attentions)
   
 ### Publication
 * [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, *arXiv preprint, 2020*](https://arxiv.org/abs/2009.03092).
