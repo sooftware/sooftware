@@ -20,6 +20,7 @@ I enjoy the implementation of the content of an interesting paper myself.
 * [Speech Transformer: The SpeechTransformer for Large-scale Mandarin Chinese Speech Recognition.](https://github.com/sooftware/Speech-Transformer)
 * [Transformer: Attention Is All You Need](https://github.com/sooftware/Attention-Is-All-You-Need)
 * [Attentions: Dot-product, Additive, Location-aware, Multi-head](https://github.com/sooftware/attentions)
+* [Sequence-to-Sequence with Attention](https://github.com/sooftware/pytorch-seq2seq)
 * [Character RNN Language Model](https://github.com/sooftware/char-rnnlm)
   
 ### Publication
