@@ -11,13 +11,16 @@
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [SPOKEN LANGUAGE LAB](http://speech.sogang.ac.kr/) 
 * `2019.09 ~ 2019.10` : [Naver AI Hackathon - Speech](https://campaign.naver.com/aihackathon_speech/) 12th Ranked 
   
+### Implementation List
+* [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech)
+* [Tacotron2](https://github.com/sooftware/Tacotron2)
+* [Speech Transformer](https://github.com/sooftware/Speech-Transformer)
+* [Attention Is All You Need](https://github.com/sooftware/Attention-Is-All-You-Need)
+* [Attentions](https://github.com/sooftware/attentions)
+  
 ### Publication
 * [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, *arXiv preprint, 2020*](https://arxiv.org/abs/2009.03092).
   
-### Interest
-* Speech Recognition / Synthesis    
-* Natural Language Processing
-* Software Development  
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
