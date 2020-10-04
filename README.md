@@ -17,6 +17,7 @@
 * [Speech Transformer: The SpeechTransformer for Large-scale Mandarin Chinese Speech Recognition.](https://github.com/sooftware/Speech-Transformer)
 * [Transformer: Attention Is All You Need](https://github.com/sooftware/Attention-Is-All-You-Need)
 * [Attentions: Dot-product, Additive, Location-aware, Multi-head](https://github.com/sooftware/attentions)
+* [Character RNN Language Model](https://github.com/sooftware/char-rnnlm)
   
 ### Publication
 * [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, *arXiv preprint, 2020*](https://arxiv.org/abs/2009.03092).
