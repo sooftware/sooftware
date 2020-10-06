@@ -17,7 +17,7 @@ I enjoy the implementation of the content of an interesting paper myself.
 ### Implementation List
 * [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech)
 * [Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://github.com/sooftware/Tacotron2)
-* [Speech Transformer: The SpeechTransformer for Large-scale Mandarin Chinese Speech Recognition.](https://github.com/sooftware/Speech-Transformer)
+* [Speech Transformer: Transformer for Speech Recognition](https://github.com/sooftware/Speech-Transformer)
 * [Transformer: Attention Is All You Need](https://github.com/sooftware/Attention-Is-All-You-Need)
 * [Attentions: Dot-product, Additive, Location-aware, Multi-head](https://github.com/sooftware/attentions)
 * [Sequence-to-Sequence with Attention](https://github.com/sooftware/pytorch-seq2seq)
