@@ -12,7 +12,6 @@ I enjoy the implementation of the content of an interesting paper myself.
 ### Career
 * `2020.08 ~ Present` : Research Internship at [Kakao Brain](https://www.kakaobrain.com/) NLP & Speech Team 
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [SPOKEN LANGUAGE LAB](http://speech.sogang.ac.kr/) 
-* `2019.09 ~ 2019.10` : [Naver AI Hackathon - Speech](https://campaign.naver.com/aihackathon_speech/) 12th Ranked 
   
 ### Implementation List
 * [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech)
