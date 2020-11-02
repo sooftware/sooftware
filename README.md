@@ -10,7 +10,8 @@ I enjoy the implementation of the content of an interesting paper myself.
 * Major in Electronic and Communication Engineering, Minor in Data Science  
   
 ### Career
-* `2020.08 ~ Present` : Research Internship at [Kakao Brain](https://www.kakaobrain.com/) NLP & Speech Team 
+* `2020.11 ~ Present` : Research Engineer at [Kakao Brain](https://www.kakaobrain.com/) NLP & Speech Team 
+* `2020.08 ~ 2020.11` : Research Internship at [Kakao Brain](https://www.kakaobrain.com/) NLP & Speech Team 
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [SPOKEN LANGUAGE LAB](http://speech.sogang.ac.kr/) 
   
 ### Implementation List
