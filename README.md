@@ -2,7 +2,7 @@
   
 ![s](https://komarev.com/ghpvc/?username=sooftware) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://blog.naver.com/sooftware) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://www.linkedin.com/in/soohwan-kim-532092182/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:sh951011@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://facebook.com/sooftware95) [![CV](https://img.shields.io/badge/Curriculum%20Vitae-yellow?style=flat-square&logo=Latex&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://github.com/sooftware/sooftware/blob/master/CV.pdf)  
   
-I`m a Research Engineer at Kakao Brain.  
+I`m a research engineer at Kakao Brain.  
 Very interested in Speech-To-Text, Text-To-Speech, Natural-Language-Processing.   
   
 ### Education
