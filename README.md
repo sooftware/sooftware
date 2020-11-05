@@ -14,7 +14,7 @@ I enjoy the implementation of the content of an interesting paper myself.
 * `2020.08 ~ 2020.11` : Research Internship at [Kakao Brain](https://www.kakaobrain.com/) 
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [SPOKEN LANGUAGE LAB](http://speech.sogang.ac.kr/) 
   
-### Implementation List
+### Projects
 * [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech)
 * [Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://github.com/sooftware/Tacotron2)
 * [Speech Transformer: Transformer for Speech Recognition](https://github.com/sooftware/Speech-Transformer)
