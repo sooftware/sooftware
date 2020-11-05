@@ -12,7 +12,7 @@ Very interested in Speech-To-Text, Text-To-Speech, Natural-Language-Processing.
 ### Career
 * `2020.11 ~ Present` : Research Engineer at [Kakao Brain](https://www.kakaobrain.com/)  
 * `2020.08 ~ 2020.11` : Research Internship at [Kakao Brain](https://www.kakaobrain.com/) 
-* `2020.04 ~ 2020.08` : Undergraduate Researcher at [SPOKEN LANGUAGE LAB](http://speech.sogang.ac.kr/) 
+* `2020.04 ~ 2020.08` : Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/) of Sogang Univ.
   
 ### Projects
 * [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech)
