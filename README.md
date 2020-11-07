@@ -12,6 +12,7 @@
 * `2020.11 ~ Present` : AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/)  
 * `2020.08 ~ 2020.11` : AI Research Internshtp at [Kakao Brain](https://www.kakaobrain.com/) 
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/) of Sogang Univ.
+* `2018.08 ~ Present` : Run a tech blog under the pen name of [Sooftware](https://blog.naver.com/sooftware)
   
 ### Skills
 
@@ -19,9 +20,9 @@
 * Multilingual Speech Synthesis
 * Natural Language Processing
   
-### Publication & Award
-* [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv preprint, 2020](https://arxiv.org/abs/2009.03092). `2020.09`  
-* [Naver AI Hackathon - Speech 12th place](https://github.com/sooftware/Naver-AI-Hackathon-Speech) `2019.09`
+### Accomplishments
+* `2020.09` : [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv preprint, 2020](https://arxiv.org/abs/2009.03092)  
+* `2019.09` : [Naver AI Hackathon - Speech 12th place](https://github.com/sooftware/Naver-AI-Hackathon-Speech) 
   
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
