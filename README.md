@@ -10,8 +10,8 @@ Very interested in Speech-To-Text, Text-To-Speech, Natural-Language-Processing.
 * Major in Electronic and Communication Engineering, Minor in Data Science  
   
 ### Career
-* `2020.11 ~ Present` : Research Engineer at [Kakao Brain](https://www.kakaobrain.com/)  
-* `2020.08 ~ 2020.11` : Research Internship at [Kakao Brain](https://www.kakaobrain.com/) 
+* `2020.11 ~ Present` : AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/)  
+* `2020.08 ~ 2020.11` : AI Research Internship at [Kakao Brain](https://www.kakaobrain.com/) 
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/) of Sogang Univ.
   
 ### Projects
