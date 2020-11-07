@@ -11,7 +11,7 @@ Very interested in Speech-To-Text, Text-To-Speech, Natural-Language-Processing.
   
 ### Career
 * `2020.11 ~ Present` : AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/)  
-* `2020.08 ~ 2020.11` : AI Research Intern at [Kakao Brain](https://www.kakaobrain.com/) 
+* `2020.08 ~ 2020.11` : AI Research Internshtp at [Kakao Brain](https://www.kakaobrain.com/) 
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/) of Sogang Univ.
   
 ### Projects
