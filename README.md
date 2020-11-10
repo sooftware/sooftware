@@ -22,7 +22,7 @@
   
 ### Accomplishments
 * `2020.09` : [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv preprint, 2020](https://arxiv.org/abs/2009.03092)  
-* `2019.09` : [Naver AI Hackathon - Speech 12th place](https://github.com/sooftware/Naver-AI-Hackathon-Speech) 
+* `2019.10` : [Naver AI Hackathon - Speech 12th place](https://github.com/sooftware/Naver-AI-Hackathon-Speech) 
   
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
