@@ -30,7 +30,7 @@
 * `2019.10` : **12th Place**, Naver AI Hackathon - Speech
 * `2019.09` : **Finalist**, Kwangwoon University software start-up idea contest - Fall
 * `2019.04` : **People's Choice Award**, Kwangwoon University software start-up idea contest - Spring
-* `2018.08` : **Excellence Award**, Samsung Multi-Campus in Java-based Algorithm for SW Developmen
+* `2018.08` : **Excellence Award**, Samsung Multi-Campus in Java-based Algorithm for SW Development
 #### Honors
 * `2020.01` : **School Representative**, 5G-based ICT Convergence Service Idea Contest
 * `2020.03` : **Excellent Scholarship**, Samsong Scholarship
