@@ -29,7 +29,7 @@
 * `2020.11` : **People's Choice Award**, Kwangwoon Engineering Festival
 * `2019.10` : **12th Place**, Naver AI Hackathon - Speech
 * `2019.09` : **Finalist**, Kwangwoon University software start-up idea contest - Fall
-* '2019.04' : **People's Choice Award**, Kwangwoon University software start-up idea contest - Spring
+* `2019.04` : **People's Choice Award**, Kwangwoon University software start-up idea contest - Spring
 * `2018.08` : **Excellence Award**, Samsung Multi-Campus in Java-based Algorithm for SW Developmen
 #### Honors
 * `2020.01` : **School Representative**, 5G-based ICT Convergence Service Idea Contest
