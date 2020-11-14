@@ -21,7 +21,8 @@
 * Natural Language Processing
   
 ### Publication
-* `2020.09` : [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv pre-print, 2020](https://arxiv.org/abs/2009.03092)  
+* `2020.11` : End-to-End Speech Recognition Models in English, Korean and Chinese,Bachelor’s Graduation Thesis
+* `2020.09` : KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv pre-print, 2020
   
 ### Honors & Awards
 #### Awards
