@@ -16,7 +16,7 @@
   
 ### Publication
 * `2020.11` : End-to-End Speech Recognition Models in English, Korean and Chinese,Bachelor’s Graduation Thesis
-* `2020.09` : KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv pre-print, 2020
+* `2020.09` : KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv pre-print
   
 ### Honors & Awards
 #### Awards
