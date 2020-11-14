@@ -14,12 +14,6 @@
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/) of Sogang Univ.
 * `2018.08 ~ Present` : Running a tech blog under the pen name of [sooftware](https://blog.naver.com/sooftware)
   
-### Skills
-
-* Automatic Speech Recognition
-* Multilingual Speech Synthesis
-* Natural Language Processing
-  
 ### Publication
 * `2020.11` : End-to-End Speech Recognition Models in English, Korean and Chinese,Bachelor’s Graduation Thesis
 * `2020.09` : KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv pre-print, 2020
