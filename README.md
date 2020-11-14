@@ -20,9 +20,24 @@
 * Multilingual Speech Synthesis
 * Natural Language Processing
   
-### Accomplishments
-* `2020.09` : [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv preprint, 2020](https://arxiv.org/abs/2009.03092)  
-* `2019.10` : [Naver AI Hackathon - Speech 12th place](https://github.com/sooftware/Naver-AI-Hackathon-Speech) 
+### Publication
+* `2020.09` : [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv pre-print, 2020](https://arxiv.org/abs/2009.03092)  
+  
+### Honors & Awards
+#### Awards
+* `2020.11` : **1st Place**, Kwangwoon Engineering Festival (President's Award)
+* `2020.11` : **People's Choice Award**, Kwangwoon Engineering Festival
+* `2019.10` : **12th Place**, Naver AI Hackathon - Speech
+* `2019.09` : **Finalist**, Kwangwoon University software start-up idea contest - Fall
+* '2019.04' : **People's Choice Award**, Kwangwoon University software start-up idea contest - Spring
+* `2018.08` : **Excellence Award**, Samsung Multi-Campus in Java-based Algorithm for SW Developmen
+#### Honors
+* `2020.01` : **School Representative**, 5G-based ICT Convergence Service Idea Contest
+* `2020.03` : **Excellent Scholarship**, Samsong Scholarship
+* `2019.03` : **Excellent Scholarship**, Samsong Scholarship
+* `2019.03` : **Academic Excellent Scholarship**, Kwangwoon University
+* `2018.09` : **Academic Excellent Scholarship**, Kwangwoon University
+* `2018.03` : **Academic Excellent Scholarship**, Kwangwoon University
   
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
