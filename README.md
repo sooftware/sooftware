@@ -15,13 +15,12 @@
 * `2018.08 ~ Present` : Running a tech blog under the pen name of [sooftware](https://blog.naver.com/sooftware)
   
 ### Publication
-* `2020.11` : End-to-End Speech Recognition Models in English, Korean and Chinese,Bachelor’s Graduation Thesis
+* `2020.11` : End-to-End Speech Recognition Models in English, Korean and Chinese, Bachelor’s Graduation Thesis
 * `2020.09` : KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv pre-print
   
 ### Honors & Awards
 #### Awards
-* `2020.11` : **1st Place**, Kwangwoon Engineering Festival (President's Award)
-* `2020.11` : **People's Choice Award**, Kwangwoon Engineering Festival
+* `2020.11` : **1st Place, People's Choice Award**, Kwangwoon Engineering Festival (President's Award)
 * `2019.10` : **12th Place**, Naver AI Hackathon - Speech
 * `2019.09` : **Finalist**, Kwangwoon University software start-up idea contest - Fall
 * `2019.04` : **People's Choice Award**, Kwangwoon University software start-up idea contest - Spring
