@@ -12,7 +12,7 @@
 * `2020.11 ~ Present` : AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/)  
 * `2020.08 ~ 2020.11` : AI Research Internshtp at [Kakao Brain](https://www.kakaobrain.com/) 
 * `2020.04 ~ 2020.08` : Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/) of Sogang Univ.
-* `2018.08 ~ Present` : Running a tech blog under the pen name of [sooftware](https://blog.naver.com/sooftware)
+* `2018.08 ~ Present` : Run a tech blog under the pen name of [Sooftware](https://blog.naver.com/sooftware)
   
 ### Publication
 * `2020.11` : End-to-End Speech Recognition Models in English, Korean and Chinese, Bachelor’s Graduation Thesis
