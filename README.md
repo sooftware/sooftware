@@ -11,7 +11,12 @@
 ### Professional Experience
 * `2020.11 ~ Present` : AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/)  
 * `2020.08 ~ 2020.11` : AI Research Internshtp at [Kakao Brain](https://www.kakaobrain.com/) 
-* `2020.04 ~ 2020.08` : Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/) @ Sogang  
+* `2020.04 ~ 2020.08` : Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/)  
+  
+### Programming Languages
+* ★★★ : Python, Java, C
+* ★★☆ : Shell Script, SQL, Android
+* ★☆☆ : C++, Arduino, Assembly, HTML
   
 ### Publication
 * `2020.11` : End-to-End Speech Recognition Models in English, Korean and Chinese, Bachelor’s Graduation Thesis
