@@ -10,7 +10,11 @@
 
 </div>
   
+<div align=center>
+  
 #### AI Research Engineer at Kakao Brain.  
+  
+</div>
   
 ### Education
 * Undergraduate Student at Kwangwoon University `2014.03 ~ 2021.02 (Expected)`  
