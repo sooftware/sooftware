@@ -2,7 +2,7 @@
 
 ### Soohwan Kim @sooftware   
 
-#### AI Research Engineer at Kakao Brain.  
+#### AI Research Engineer ㆍ Software Developer 
   
 </div>
   
