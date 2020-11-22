@@ -31,11 +31,6 @@
 * `2020.11` : End-to-End Speech Recognition Models in English, Korean and Chinese, Bachelor’s Graduation Thesis
 * `2020.09` : KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv pre-print
   
-### Accomplishments
-* `2020.11` : **1st Place, People's Choice Award**, Kwangwoon Engineering Festival (President's Award)
-* `2019.10` : **Finalist (12th Place)**, Naver AI Hackathon - Speech
-* `2018.08` : **Best Award**, Samsung Multi-Campus in Java-based Algorithm for SW Development
-  
 You can check my [CV](https://github.com/sooftware/sooftware/blob/master/CV.pdf) for more details
   
 <!--
