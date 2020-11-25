@@ -1,6 +1,6 @@
 <div align=center>
 
-### Soohwan Kim @sooftware   
+### 🤗 Soohwan Kim @sooftware 🤗   
 
 #### AI Research Engineer ㆍ Software Developer 
   
