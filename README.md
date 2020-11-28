@@ -1,6 +1,6 @@
 <img src="https://github.com/sooftware/sooftware/raw/master/images/header.PNG" width=800>
   
-##  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello !  
+##  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello !!  
 My name is Soohwan Kim and I'm an AI Research Engineer/Software Developer. I lives in South Korean and currently working at [Kakao Brain](https://www.kakaobrain.com/). You can find me on [Facebook](https://www.facebook.com/sooftware95) or [LinkedIn](https://www.linkedin.com/in/Soo-hwan/).
   
 ## ✍ Blog & Writing
