@@ -1,5 +1,27 @@
 <img src="https://github.com/sooftware/sooftware/raw/master/images/header.PNG" width=800>
   
+## ✍ Blog & Writing
+  
+Apart from coding, I also maintain a blog - you can find my articles on my website at [naver blog](https://blog.naver.com/sooftware) & [github.io](https://sooftware.github.io/) 
+  
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=Visual-Studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Toolkit-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Toolkit-Fairseq-informational?style=flat&logo=Fairseq&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Toolkit-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Toolkit-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+  
 ## &#x1f4c8; GitHub Stats
   
 <a href="https://github.com/sooftware/sooftware">
