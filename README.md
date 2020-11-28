@@ -1,4 +1,4 @@
-![header](images/logo.PNG)
+<img src="https://github.com/sooftware/sooftware/raw/master/images/logo.PNG" width=800>
   
 ## &#x1f4c8; GitHub Stats
   
