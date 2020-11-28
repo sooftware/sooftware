@@ -1,4 +1,4 @@
-﻿![header](./images/logo.png)
+![header](images/logo.PNG)
   
 ## &#x1f4c8; GitHub Stats
   
