@@ -1,7 +1,7 @@
 <img src="https://github.com/sooftware/sooftware/raw/master/images/header.PNG" width=800>
   
 ##  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello !  
-My name is Soohwan Kim and I'm an AI Research Engineer/Software Developer. I lives in South Korean and currently working at Kakao Brain. You can find me on [Facebook](https://www.facebook.com/sooftware95) or [LinkedIn](https://www.linkedin.com/in/Soo-hwan/).
+My name is Soohwan Kim and I'm an AI Research Engineer/Software Developer. I lives in South Korean and currently working at [Kakao Brain](https://www.kakaobrain.com/). You can find me on [Facebook](https://www.facebook.com/sooftware95) or [LinkedIn](https://www.linkedin.com/in/Soo-hwan/).
   
 ## ✍ Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [naver blog](https://blog.naver.com/sooftware) & [github.io](https://sooftware.github.io/) 
