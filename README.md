@@ -1,4 +1,4 @@
-<img src="https://github.com/sooftware/sooftware/raw/master/images/header.png" width=800>
+<img src="https://github.com/sooftware/sooftware/raw/master/images/header.png" width=900>
   
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Soohwan Kim 
 My name is Soohwan Kim and I'm an AI Research Engineer/Software Developer.   
