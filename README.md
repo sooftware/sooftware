@@ -1,8 +1,9 @@
 <img src="https://github.com/sooftware/sooftware/raw/master/images/header.png" width=900>
   
-<img align="right" alt="GIF" src="https://github.com/sooftware/sooftware/images/code.gif" width="450" height="260" />
+<img align="right" alt="GIF" src="
+## <img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" width="450" height="260" />
   
-## <img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" width="30px"> Hi, I'm Soohwan Kim 
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Soohwan Kim 
 I'm an AI Research Engineer/Software Developer.     
 I lives in South Korean and currently working at [Kakao Brain](https://www.kakaobrain.com/).   
 You can find me on [Facebook](https://www.facebook.com/sooftware95) or [LinkedIn](https://www.linkedin.com/in/Soo-hwan/).
