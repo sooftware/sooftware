@@ -21,7 +21,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Toolkit-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Toolkit-Fairseq-informational?style=flat&logo=Fairseq&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Toolkit-Fairseq-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Toolkit-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Toolkit-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
   
