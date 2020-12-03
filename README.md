@@ -11,6 +11,10 @@ You can find me on [Facebook](https://www.facebook.com/sooftware95) or [LinkedIn
 Apart from coding, I also maintain a blog - you can find    
 my articles on my website at [naver blog](https://blog.naver.com/sooftware) & [github.io](https://sooftware.github.io/) 
   
+## Publication  
+- `2021` KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, Elsevier SIMPAC.  
+- `2020` English, Korean and Chinese Automatic Speech Recognition Models, Bachelor's graduation thesis.
+  
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
