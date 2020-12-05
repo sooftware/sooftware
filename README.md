@@ -9,7 +9,7 @@ You can find me on [Facebook](https://www.facebook.com/sooftware95) or [LinkedIn
   
 ## Blog & Writing
 Apart from coding, I also maintain a blog - you can find    
-my articles on my website at [naver blog](https://blog.naver.com/sooftware) & [github.io](https://sooftware.github.io/) 
+my articles on my website at [Naver blog](https://blog.naver.com/sooftware) & [github.io](https://sooftware.github.io/) 
   
 ## Education
 - Undergraduate Student in School of elcomm, Kwangwoon University `2014.03 ~ 2021.02 (Expected)` 
