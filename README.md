@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Soohwan Kim 
 I'm an AI Research Engineer/Software Developer.     
 I live in Korea and currently working at [Kakao Brain](https://www.kakaobrain.com/).   
-You can check my [CV](https://github.com/sooftware/sooftware/blob/master/CV.pdf).
+You can check my [CV](https://github.com/sooftware/sooftware/blob/master/CV.pdf) and find me on [Facebook](https://www.facebook.com/sooftware95/).
   
 ## Blog & Writing
 Apart from coding, I also maintain a blog - you can find    
