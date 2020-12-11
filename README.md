@@ -16,8 +16,8 @@ my articles on my website at [Naver blog](https://blog.naver.com/sooftware) & [g
 - Major in Electronic and Communication Engineering, Minor in Data Science  
   
 ## Publication  
+- `2020` English, Korean and Chinese Automatic Speech Recognition Models, Bachelor's graduation thesis.  
 - `2020` KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv, pre-print.  
-- `2020` English, Korean and Chinese Automatic Speech Recognition Models, Bachelor's graduation thesis.
   
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
