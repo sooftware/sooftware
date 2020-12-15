@@ -17,23 +17,7 @@ my articles on my website at [Naver blog](https://blog.naver.com/sooftware) & [g
   
 ## Publication  
 - `2020` English, Korean and Chinese Automatic Speech Recognition Models, Bachelor's graduation thesis.  
-- `2020` KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, arXiv, pre-print.  
-  
-## Technologies & Tools
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Toolkit-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Toolkit-Fairseq-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Toolkit-PyTorchLightning-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Toolkit-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Toolkit-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+- `2020` KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.  
   
 ## GitHub Stats
 <a href="https://github.com/sooftware/sooftware">
