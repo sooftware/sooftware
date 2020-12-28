@@ -20,6 +20,9 @@ my articles on my website at [Naver blog](https://blog.naver.com/sooftware) & [g
 - `2020` KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.  
   
 ## GitHub Stats
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=sooftware)](https://github.com/ryo-ma/github-profile-trophy)
+  
 <a href="https://github.com/sooftware/sooftware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooftware&hide=html,scss,cuda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=TIL" />
 </a>
@@ -35,7 +38,6 @@ my articles on my website at [Naver blog](https://blog.naver.com/sooftware) & [g
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=Fairseq-Listen-Attend-Spell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=End-to-End-Speech-Recognition-Models&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
   
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
