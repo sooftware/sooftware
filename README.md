@@ -28,7 +28,6 @@ my articles on my website at [Naver blog](https://blog.naver.com/sooftware) & [g
 <a href="https://github.com/sooftware/sooftware">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sooftware&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Soohwan's GitHub Stats" />
 </a>
-
 <a href="https://github.com/sooftware/KoSpeech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=KoSpeech&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=nlp-attentions&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
