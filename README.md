@@ -24,8 +24,9 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
 - 📫 How to reach me: sh951011@gmail.com
   
 ## Recent Activity
-- 📚 [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
-- 👨🏼‍💻 [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://github.com/sooftware/jasper-pytorch)
+- 📚 Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
+- 👨🏼‍💻 Implement: [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://github.com/sooftware/jasper-pytorch)  
+- 👯 Study: [Speech-paper-reading](https://github.com/speech-paper-reading/speech-paper-reading)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sooftware)](https://github.com/ryo-ma/github-profile-trophy)
 
