@@ -12,11 +12,8 @@
   
 Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communication Engineering and minored in Data Science at university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my github page to see what I am currently up to.
   
-<p align=center><i> 
-  
-<img align="right" alt="GIF" src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" width="450" height="260" />
-  
-</i></p>  
+
+<p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
   
 ## Education
 - Undergraduate Student in School of elcomm, Kwangwoon University `2014.03 ~ 2021.02 (Expected)` 
