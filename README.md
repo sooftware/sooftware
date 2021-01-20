@@ -15,17 +15,17 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
 
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
   
-## Education
-- Undergraduate Student in School of elcomm, Kwangwoon University `2014.03 ~ 2021.02 (Expected)` 
-- Major in Electronic and Communication Engineering, Minor in Data Science  
+## Summary
+- 🔭 I’m an AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/).
+- 👨🏼‍💻 Skilled in Speech Recognition, Speech Synthesis, and Natural Language Processing.
+- 📚 I major in Electronic and Communication Engineering and minor in Data Science.
+- ⚡ I enjoy implementing deep learning models.
   
-## Publication  
-- `2020` English, Korean and Chinese Automatic Speech Recognition Models, Bachelor's graduation thesis.  
-- `2020` KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.  
+## Recent Activity
+- 📚 Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
+- 👨🏼‍💻 Implement [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://github.com/sooftware/jasper-pytorch)
   
-## GitHub Stats
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sooftware&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sooftware)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
