@@ -17,9 +17,11 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
   
 ## Summary
 - 🔭 I’m an AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/).
+- 🌱 I’m currently learning software engineering skills.
 - 👨🏼‍💻 Skilled in Speech Recognition, Speech Synthesis, and Natural Language Processing.
 - 📚 I major in Electronic and Communication Engineering and minor in Data Science.
 - ⚡ I enjoy implementing deep learning models.
+- 📫 How to reach me: sh951011@gmail.com
   
 ## Recent Activity
 - 📚 Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
