@@ -1,15 +1,22 @@
-<img src="https://github.com/sooftware/sooftware/raw/master/images/header.png" width=900>
+![profile-view](https://komarev.com/ghpvc/?username=sooftware)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://sooftware.github.io/)	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Soo-hwan/)](https://www.linkedin.com/in/Soo-hwan/)	
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sh951011@gmail.com)](mailto:sh951011@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sooftware95)](https://www.facebook.com/zzsza)
+[![CV](https://img.shields.io/badge/CurriculumVitae-blue?style=flat-square&logo=LaTex&logoColor=white&link=mailto:sh951011@gmail.com)](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
+
+
+<img src="https://github.com/sooftware/sooftware/blob/master/intro.gif">
+
+## Welcome <img src="https://h5p.org/sites/default/files/h5p/content/295752/images/file-5b73018c5fa4b.gif" width="30px">   
+  
+Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communication Engineering and minored in Data Science at university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my github page to see what I am currently up to.
+  
+<p align=center><i> 
   
 <img align="right" alt="GIF" src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" width="450" height="260" />
   
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Soohwan Kim 
-I'm an AI Research Engineer/Software Developer.     
-I live in Korea and currently working at [Kakao Brain](https://www.kakaobrain.com/).   
-You can check my [CV](https://github.com/sooftware/sooftware/blob/master/CV.pdf) and find me on [Facebook](https://www.facebook.com/sooftware95/).
-  
-## Blog & Writing
-Apart from coding, I also maintain a blog - you can find    
-my articles on my website at [Naver blog](https://blog.naver.com/sooftware) & [github.io](https://sooftware.github.io/) 
+</i></p>  
   
 ## Education
 - Undergraduate Student in School of elcomm, Kwangwoon University `2014.03 ~ 2021.02 (Expected)` 
