@@ -17,7 +17,7 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
   
 ## Summary
 - 🔭 I’m an AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/).
-- 🌱 I’m currently learning software engineering skills.
+- 🌱 I always want to learn software engineering skills.
 - 👨🏼‍💻 Skilled in speech recognition, speech synthesis, and natural language processing.
 - 📚 I major in Electronic and Communication Engineering and minor in Data Science.
 - ⚡ I enjoy implementing deep learning models.
