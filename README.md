@@ -16,18 +16,18 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
   
 ## Summary
-- 🔭 I’m an AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/).
-- 🌱 I always want to learn software engineering skills.
-- 👨🏼‍💻 Skilled in speech recognition, speech synthesis, and natural language processing.
-- 📚 I major in Electronic and Communication Engineering and minor in Data Science.
-- ⚡ I enjoy implementing deep learning models.
-- 📫 How to reach me: sh951011@gmail.com
+- 🔭  I’m an AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/).
+- 🌱  I always want to learn software engineering skills.
+- 👨🏼‍💻  Skilled in speech recognition, speech synthesis, and natural language processing.
+- 📚  I major in Electronic and Communication Engineering and minor in Data Science.
+- ⚡  I enjoy implementing deep learning models.
+- 📫  How to reach me: sh951011@gmail.com
   
 ## Recent Activity
-- 👨🏼‍💻 Implement: [Conformer: Convolution-augmented Transformer for Speech Recognition](https://github.com/sooftware/conformer)
-- 👨🏼‍💻 Implement: [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://github.com/sooftware/jasper)  
-- 📚 Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
-- 👯 Study: [Speech-paper-reading](https://github.com/speech-paper-reading/speech-paper-reading)
+- 👨🏼‍💻  Implement: [Conformer: Convolution-augmented Transformer for Speech Recognition](https://github.com/sooftware/conformer)
+- 👨🏼‍💻  Implement: [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://github.com/sooftware/jasper)  
+- 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
+- 👯  Study: [Speech-paper-reading](https://github.com/speech-paper-reading/speech-paper-reading)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sooftware)](https://github.com/ryo-ma/github-profile-trophy)
 
