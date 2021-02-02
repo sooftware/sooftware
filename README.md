@@ -48,6 +48,16 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
 <a href="https://github.com/speech-paper-reading/speech-paper-reading">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speech-paper-reading&repo=speech-paper-reading"/>
 </a>   
+  
+  
+  
+  
+<a href="https://github.com/sooftware/attentions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=attentions"/>
+</a>   
+<a href="https://github.com/sooftware/ksponspeech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=ksponspeech"/>
+</a>   
 
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
