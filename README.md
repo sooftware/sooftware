@@ -40,6 +40,8 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=KoSpeech"/>
 </a>   
   
+***
+  
 <a href="https://github.com/kakaobrain/nlp-paper-reading">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kakaobrain&repo=nlp-paper-reading"/>
 </a>   
