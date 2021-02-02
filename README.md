@@ -26,6 +26,7 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
   
 ## Recent Activity
 - 🤗 NLP Library: [Pororo: A Deep Learning based Multilingual Natural Language Processing Library](https://github.com/kakaobrain/pororo)
+- 👨🏼‍💻  Implement: [RNN-Transducer](https://github.com/sooftware/RNN-Transducer)
 - 👨🏼‍💻  Implement: [Conformer: Convolution-augmented Transformer for Speech Recognition](https://github.com/sooftware/conformer)
 - 👨🏼‍💻  Implement: [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://github.com/sooftware/jasper)  
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
