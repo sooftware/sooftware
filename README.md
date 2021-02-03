@@ -2,7 +2,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://sooftware.github.io/)	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Soo-hwan/)](https://www.linkedin.com/in/Soo-hwan/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sh951011@gmail.com)](mailto:sh951011@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sooftware95)](https://www.facebook.com/zzsza)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sooftware95)](https://www.facebook.com/sooftware95)
 [![CV](https://img.shields.io/badge/CurriculumVitae-blue?style=flat-square&logo=LaTex&logoColor=white&link=mailto:sh951011@gmail.com)](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
 
 
