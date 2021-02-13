@@ -24,6 +24,11 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
 - ⚡  I enjoy implementing deep learning models.
 - 📫  How to reach me: sh951011@gmail.com
   
+## Professional Experience
+- `2020.11 ~ Present`: AI Research Engineer at [Kakao Brain](www.kakaobrain.com).
+- `2020.08 ~ 2020.11`: AI Research Intern at [Kakao Brain](www.kakaobrain.com).
+- `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
+  
 ## Recent Activity
 - 🤗 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
 - 👨🏼‍💻  Implement: [RNN-Transducer](https://github.com/sooftware/RNN-Transducer)
