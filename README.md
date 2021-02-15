@@ -25,8 +25,7 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
 - 📫  How to reach me: sh951011@gmail.com
   
 ## Professional Experience
-- `2020.11 ~ Present`: AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
-- `2020.08 ~ 2020.11`: AI Research Intern at [Kakao Brain](https://www.kakaobrain.com).
+- `2020.08 ~ Present`: AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
 ## Recent Activity
