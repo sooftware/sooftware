@@ -14,7 +14,7 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
   
 ## Summary
-- 🔭  I’m an AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com/).
+- 🔭  I’m an AI Research Engineer at TUNiB Inc.
 - 👨‍🎓 B.E in School of Electronic and Communication Engineering, Kwangwoon University 
 - 🗣 Creator of [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech). 
 - 🤗 Maintainer of [Pororo: A Deep Learning based Multilingual Natural Language Processing Library](https://github.com/kakaobrain/pororo)
@@ -23,8 +23,8 @@ Current AI Research Engineer at Kakao Brain. I majored in Electronic & Communica
 - 📫  How to reach me: sh951011@gmail.com
   
 ## Professional Experience
-- `2021.03 ~ Present`: AI Research Engineer at TUNiB AI.
-- `2020.08 ~ 2021.02`: AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
+- `2021.03 ~ Present`: AI Research Engineer at TUNiB Inc.
+- `2020.08 ~ 2021.02`: AI Research Engineer at [Kakao Brain Corp](https://www.kakaobrain.com).
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
 ## Recent Activity
