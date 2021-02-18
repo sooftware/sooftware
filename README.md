@@ -8,13 +8,13 @@
 
 ## Welcome <img src="https://h5p.org/sites/default/files/h5p/content/295752/images/file-5b73018c5fa4b.gif" width="30px">   
   
-Current AI Research Engineer at TUNiB Inc. I majored in Electronic & Communication Engineering and minored in Data Science at university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my github page to see what I am currently up to.
+Current Co-founder & AI Research Engineer of TUNiB Inc. I majored in Electronic & Communication Engineering and minored in Data Science at university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my github page to see what I am currently up to.
   
 
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
   
 ## Summary
-- 🔭  I’m an AI Research Engineer at TUNiB Inc.
+- 🔭  I’m an AI Research Engineer & Co-founder at TUNiB Inc.
 - 👨‍🎓 B.E in School of Electronic and Communication Engineering, Kwangwoon University 
 - 🗣 Creator of [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech). 
 - 🤗 Maintainer of [Pororo: A Deep Learning based Multilingual Natural Language Processing Library](https://github.com/kakaobrain/pororo)
@@ -23,7 +23,7 @@ Current AI Research Engineer at TUNiB Inc. I majored in Electronic & Communicati
 - 📫  How to reach me: sh951011@gmail.com
   
 ## Professional Experience
-- `2021.03 ~ Present`: AI Research Engineer at TUNiB Inc.
+- `2021.03 ~ Present`: AI Research Engineer & Co-founder at TUNiB Inc.
 - `2020.08 ~ 2021.02`: AI Research Engineer at [Kakao Brain Corp](https://www.kakaobrain.com).
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
