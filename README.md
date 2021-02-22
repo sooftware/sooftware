@@ -17,8 +17,8 @@ Current co-founder & AI Research Engineer of TUNiB Inc. I majored in Electronic 
 - 🤟  Current Co-founder & AI Research Engineer of TUNiB Inc.
 - 🔭  Former AI Research Engineer at Kakao Brain Corp.
 - 👨‍🎓 B.E in School of Electronic and Communication Engineering, Kwangwoon University 
-- 🗣 Creator of [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech). 
-- 🤗 Maintainer of [Pororo: A Deep Learning based Multilingual Natural Language Processing Library](https://github.com/kakaobrain/pororo)
+- 🎧 Creator of [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech). 
+- 🐧 Maintainer of [Pororo: A Deep Learning based Multilingual Natural Language Processing Library](https://github.com/kakaobrain/pororo)
 - 👨🏼‍💻  Skilled in speech recognition, speech synthesis, and natural language processing.
 - ⚡  I enjoy implementing deep learning models.
 - 📫  How to reach me: sh951011@gmail.com
