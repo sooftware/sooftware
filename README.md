@@ -29,13 +29,9 @@ Current co-founder & AI Research Engineer of TUNiB Inc. I majored in Electronic 
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
 ## Recent Activity
-- 🤗 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
-- 👨🏼‍💻  Implement: [RNN-Transducer](https://github.com/sooftware/RNN-Transducer)
-- 👨🏼‍💻  Implement: [Conformer: Convolution-augmented Transformer for Speech Recognition](https://github.com/sooftware/conformer)
-- 👨🏼‍💻  Implement: [Jasper: An End-to-End Convolutional Neural Acoustic Model](https://github.com/sooftware/jasper)  
+- 🤟 Left a Kakao Brain Corp, found TUNiB Inc as a co-founder.
+- 🐧 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
-- 👯  Study: [speech-paper-reading](https://github.com/speech-paper-reading/speech-paper-reading)
-- 👯  Study: [nlp-paper-reading](https://github.com/kakaobrain/nlp-paper-reading). 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sooftware)](https://github.com/ryo-ma/github-profile-trophy)
   
