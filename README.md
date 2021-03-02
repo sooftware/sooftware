@@ -18,18 +18,17 @@ Current co-founder & AI Research Engineer of TUNiB Co., Ltd. Former AI Research 
 - 🔭  Former AI Research Engineer at Kakao Brain Corp.
 - 👨‍🎓 B.E in School of Electronic and Communication Engineering, Kwangwoon University 
 - 🎧 Creator of [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech). 
-- 🐧 Maintainer of [Pororo: A Deep Learning based Multilingual Natural Language Processing Library](https://github.com/kakaobrain/pororo)
 - 👨🏼‍💻  Skilled in speech recognition, speech synthesis, and natural language processing.
 - ⚡  I enjoy implementing deep learning models.
 - 📫  How to reach me: sh951011@gmail.com
   
 ## Professional Experience
-- `2021.03 ~ Present`: AI Research Engineer & co-founder of TUNiB Co., Ltd.
+- `2021.03 ~ Present`: AI Research Engineer & Co-Founder of TUNiB Co., Ltd.
 - `2020.08 ~ 2021.02`: AI Research Engineer at [Kakao Brain Corp](https://www.kakaobrain.com).
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
 ## Recent Activity
-- 🤟 Left a Kakao Brain Corp, found TUNiB Co., Ltd, as a co-founder.
+- 🤟 Left a Kakao Brain Corp, found TUNiB Co., Ltd, as a Co-Founder.
 - 🐧 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
   
