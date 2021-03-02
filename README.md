@@ -8,7 +8,7 @@
 
 ## Welcome <img src="https://h5p.org/sites/default/files/h5p/content/295752/images/file-5b73018c5fa4b.gif" width="30px">   
   
-Current co-founder & AI Research Engineer of TUNiB Co., Ltd. Former AI Research Engineer at Kakao Brain. I majored in Electronic & Communication Engineering and minored in Data Science at university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my github page to see what I am currently up to.
+Current co-founder & AI Research Engineer of TUNiB Co., Ltd. Former AI Research Engineer at Kakao Brain. I majored in Electronic & Communication Engineering and minored in Data Science at Kwangwoon university. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts. I want to be helpful to others through open source. You can check my github page to see what I am currently up to.
   
 
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
