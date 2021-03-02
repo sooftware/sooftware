@@ -33,32 +33,6 @@ Current co-founder & AI Research Engineer of TUNiB Co., Ltd. Former AI Research 
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sooftware)](https://github.com/ryo-ma/github-profile-trophy)
-  
-<a href="https://github.com/kakaobrain/pororo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kakaobrain&repo=pororo"/>
-</a>   
-<a href="https://github.com/sooftware/KoSpeech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=KoSpeech"/>
-</a>   
-  
-  
-  
-<a href="https://github.com/kakaobrain/nlp-paper-reading">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kakaobrain&repo=nlp-paper-reading"/>
-</a>   
-<a href="https://github.com/speech-paper-reading/speech-paper-reading">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=speech-paper-reading&repo=speech-paper-reading"/>
-</a>   
-  
-  
-  
-  
-<a href="https://github.com/sooftware/attentions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=attentions"/>
-</a>   
-<a href="https://github.com/sooftware/ksponspeech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=ksponspeech"/>
-</a>   
 
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
