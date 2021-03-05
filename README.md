@@ -23,8 +23,8 @@ Current Co-Founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
 - 📫  How to reach me: sh951011@gmail.com
   
 ## Professional Experience
-- `2021.03 ~ Present`: AI Research Engineer & Co-Founder of TUNiB Inc.
-- `2020.08 ~ 2021.02`: AI Research Engineer at [Kakao Brain Corp](https://www.kakaobrain.com).
+- `2021.03 ~ Present`: AI Research Engineer & Co-Founder of TUNiB.
+- `2020.08 ~ 2021.02`: AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
 ## Recent Activity
