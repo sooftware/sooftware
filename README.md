@@ -14,8 +14,8 @@ Current Co-Founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
   
 ## Summary
-- 🌷  Current Co-founder & AI Research Engineer of TUNiB Inc.
-- 🔭  Former AI Research Engineer at Kakao Brain Corp.
+- 🌷  Current Co-founder & AI Research Engineer of TUNiB.
+- 🔭  Former AI Research Engineer at Kakao Brain.
 - 👨‍🎓 B.E in School of Electronic and Communication Engineering, Kwangwoon University 
 - 🎧 Creator of [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech). 
 - 👨🏼‍💻  Skilled in speech recognition, speech synthesis, and natural language processing.
