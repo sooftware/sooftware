@@ -13,6 +13,9 @@ Current Co-Founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
   
 <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/windows%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Mac%20-%231572B6.svg?&style=for-the-badge&logo=apple&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/c%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=#E51E23" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
