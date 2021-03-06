@@ -14,21 +14,23 @@ Current Co-Founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
 <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=#Ed9b2c" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=#E51E23" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/android%20-%231572B6.svg?&style=for-the-badge&logo=android&logoColor=#7af956" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/shell script%20-%231572B6.svg?&style=for-the-badge&logo=powershell&logoColor=#7af956" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=009298" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/numpy%20-%231572B6.svg?&style=for-the-badge&logo=numpy&logoColor=yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pandas%20-%231572B6.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pandas%20-%231572B6.svg?&style=for-the-badge&logo=pandas&logoColor=0F0050" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn%20-%231572B6.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pytorch%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=#E05231" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=#E05231" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pytorch%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=#E74A2B" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=#F77900" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/fairseq%20-%231572B6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/hydra%20-%231572B6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/faiss%20-%231572B6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=EA5F46" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/selenium%20-%231572B6.svg?&style=for-the-badge&logo=selenium&logoColor=white" />&nbsp;&nbsp;
 </p>
   
 ## Summary
@@ -46,7 +48,7 @@ Current Co-Founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
 ## Recent Activity
-- 🤟 Left a Kakao Brain Corp, found TUNiB Inc, as a Co-Founder.
+- 🤟 Left a Kakao Brain, found TUNiB, as a Co-Founder.
 - 🐧 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
 
