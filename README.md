@@ -5,13 +5,31 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sooftware95)](https://www.facebook.com/sooftware95)
 [![RÉSUMÉ](https://img.shields.io/badge/Résumé-blue?style=flat-square&logo=LaTex&logoColor=white&link=mailto:sh951011@gmail.com)](https://github.com/sooftware/sooftware/blob/master/CV.pdf)
 
-
 ## Welcome <img src="https://h5p.org/sites/default/files/h5p/content/295752/images/file-5b73018c5fa4b.gif" width="30px">   
-  
+
 Current Co-Founder & AI Research Engineer of TUNiB Inc. Former AI Research Engineer at Kakao Brain. I majored in Electronic & Communication Engineering and minored in Data Science at Kwangwoon university. I hope to be a research engineer rather than a research scientist. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts at my blog. I root for open-source culture, and I want to contribute. You can check my github page to see what I am currently up to.
-  
 
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
+  
+<h2 align="center"> 🔭 Technology Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/c%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=#Ed9b2c" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/android%20-%231572B6.svg?&style=for-the-badge&logo=android&logoColor=#7af956" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/shell script%20-%231572B6.svg?&style=for-the-badge&logo=powershell&logoColor=#7af956" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/numpy%20-%231572B6.svg?&style=for-the-badge&logo=numpy&logoColor=yellow" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pandas%20-%231572B6.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn%20-%231572B6.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pytorch%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=#E05231" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=#E05231" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/fairseq%20-%231572B6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/hydra%20-%231572B6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/faiss%20-%231572B6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+</p>
   
 ## Summary
 - 🌷  Current Co-founder & AI Research Engineer of TUNiB.
@@ -31,8 +49,6 @@ Current Co-Founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
 - 🤟 Left a Kakao Brain Corp, found TUNiB Inc, as a Co-Founder.
 - 🐧 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sooftware)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
