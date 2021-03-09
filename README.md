@@ -7,7 +7,7 @@
 
 ## Welcome <img src="https://h5p.org/sites/default/files/h5p/content/295752/images/file-5b73018c5fa4b.gif" width="30px">   
 
-Current Co-Founder & AI Research Engineer of TUNiB Inc. Former AI Research Engineer at Kakao Brain. I majored in Electronic & Communication Engineering and minored in Data Science at Kwangwoon university. I hope to be a research engineer rather than a research scientist. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts at my blog. I root for open-source culture, and I want to contribute. You can check my github page to see what I am currently up to.
+Current Co-founder & AI Research Engineer of TUNiB Inc. Former AI Research Engineer at Kakao Brain. I majored in Electronic & Communication Engineering and minored in Data Science at Kwangwoon university. I hope to be a research engineer rather than a research scientist. My research interests include technologies for human-machine interaction, such as automatic speech recognition, speech synthesis, and natural language processing. I enjoy software development and sometimes like to write my knowledge or thoughts at my blog. I root for open-source culture, and I want to contribute. You can check my github page to see what I am currently up to.
 
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
   
@@ -46,12 +46,12 @@ Current Co-Founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
 - 📫  How to reach me: sh951011@gmail.com
   
 ## Professional Experience
-- `2021.03 ~ Present`: AI Research Engineer & Co-Founder of TUNiB.
+- `2021.03 ~ Present`: AI Research Engineer & Co-founder of TUNiB.
 - `2020.08 ~ 2021.02`: AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
 ## Recent Activity
-- 🤟 Left a Kakao Brain, found TUNiB, as a Co-Founder.
+- 🤟 Left a Kakao Brain, found TUNiB, as a Co-founder.
 - 🐧 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
 
