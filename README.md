@@ -37,7 +37,7 @@ Current Co-founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
 </p>
   
 ## Summary
-- 🌷  Current Co-founder & AI Research Engineer of [TUNiB Inc.](http://www.tunib.ai/).
+- 🌷  Current Co-founder & AI Research Engineer of [TUNiB Inc.](http://www.tunib.ai/)
 - 🔭  Former AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
 - 👨‍🎓 B.E in School of Electronic and Communication Engineering, Kwangwoon University 
 - 🎧 Creator of [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech). 
@@ -46,7 +46,7 @@ Current Co-founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
 - 📫  How to reach me: sh951011@gmail.com
   
 ## Professional Experience
-- `2021.03 ~ Present`: AI Research Engineer & Co-founder of [TUNiB Inc.](http://www.tunib.ai/).
+- `2021.03 ~ Present`: AI Research Engineer & Co-founder of [TUNiB Inc.](http://www.tunib.ai/)
 - `2020.08 ~ 2021.02`: AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
