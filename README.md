@@ -43,7 +43,7 @@ Current Co-founder & AI Research Engineer of TUNiB Inc. Former AI Research Engin
 - 🎧 Creator of [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech). 
 - 👨🏼‍💻  Skilled in speech recognition, speech synthesis, and natural language processing.
 - ⚡  I enjoy implementing deep learning models.
-- 📫  How to reach me: sh951011@gmail.com
+- 📫  How to reach me: kaki.ai@tunib.ai
   
 ## Professional Experience
 - `2021.03 ~ Present`: AI Research Engineer & Co-founder of [TUNiB Inc.](http://www.tunib.ai/)
