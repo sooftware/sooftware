@@ -11,31 +11,6 @@ Current Co-founder & AI Research Engineer of TUNiB Inc. Previously at Kakao Brai
 
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
   
-<h2 align="center"> 🔭 Technology Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/windows%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Mac%20-%231572B6.svg?&style=for-the-badge&logo=apple&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/c%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=#E51E23" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/android%20-%231572B6.svg?&style=for-the-badge&logo=android&logoColor=#7af956" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/shell script%20-%231572B6.svg?&style=for-the-badge&logo=powershell&logoColor=#7af956" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/arduino%20-%231572B6.svg?&style=for-the-badge&logo=arduino&logoColor=009298" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/numpy%20-%231572B6.svg?&style=for-the-badge&logo=numpy&logoColor=yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pandas%20-%231572B6.svg?&style=for-the-badge&logo=pandas&logoColor=0F0050" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn%20-%231572B6.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pytorch%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=#E74A2B" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=#F77900" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/fairseq%20-%231572B6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/hydra%20-%231572B6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/faiss%20-%231572B6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=EA5F46" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/selenium%20-%231572B6.svg?&style=for-the-badge&logo=selenium&logoColor=white" />&nbsp;&nbsp;
-</p>
-  
 ## Summary
 - 🌷  Current Co-founder & AI Research Engineer of [TUNiB Inc.](http://www.tunib.ai/)
 - 🔭  Former AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
