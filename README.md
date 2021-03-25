@@ -30,7 +30,13 @@ Current Co-founder & AI Research Engineer of TUNiB Inc. Previously at Kakao Brai
 - 🤟 Left a Kakao Brain, found TUNiB, as a Co-founder.
 - 🐧 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
-
+  
+## Recent projects of interest
+- Facebook : [PyTorch](https://github.com/pytorch/pytorch), [fairseq](https://github.com/pytorch/fairseq), [ParlAI](https://github.com/facebookresearch/ParlAI), [hydra](https://github.com/facebookresearch/hydra), [faiss](https://github.com/facebookresearch/faiss), [xla](https://github.com/pytorch/xla)
+- Kakao Brain : [pororo](https://github.com/kakaobrain/pororo), [torchgpipe](https://github.com/kakaobrain/torchgpipe)
+- NVIDIA : [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+- Microsoft : [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+  
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
