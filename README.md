@@ -26,6 +26,7 @@ Current Co-founder & AI Research Engineer of TUNiB Inc. Previously at Kakao Brai
 - `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
   
 ## Recent Activity
+- 🤖 Dialogue system research (chatbot)
 - 🤟 Left a Kakao Brain, found TUNiB, as a Co-founder.
 - 🐧 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
