@@ -14,7 +14,7 @@ Current Co-founder & AI Research Engineer of TUNiB Inc. Previously at Kakao Brai
 ## Summary
 - 🌷  Current Co-founder & AI Research Engineer of [TUNiB Inc.](http://www.tunib.ai/)
 - 🔭  Former AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
-- 👨‍🎓 Bachelor of Engineering, Major in Elcomm, Minor in Data Science at Kwangwoon University.   
+- 👨‍🎓 Bachelor of Engineering, Major in Elcomm, Minor in Data Science at [Kwangwoon University](https://www.kw.ac.kr/en/).   
 - 🎧 Creator of [KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition](https://github.com/sooftware/KoSpeech). 
 - 👨🏼‍💻  Skilled in speech recognition, speech synthesis, and natural language processing.
 - ⚡  I enjoy implementing deep learning models.
