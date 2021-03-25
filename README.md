@@ -31,7 +31,7 @@ Current Co-founder & AI Research Engineer of TUNiB Inc. Previously at Kakao Brai
 - 🐧 NLP Library: [PORORO: Platform Of neuRal mOdels for natuRal language prOcessing](https://github.com/kakaobrain/pororo)
 - 📚  Publishing: [KoSpeech - Open-Source Toolkit for End-to-End Korean Speech Recognition, ELSEVIER, SIMPAC.](https://www.sciencedirect.com/science/article/pii/S2665963821000026)  
   
-## I Interested in ..
+## Projects I'm currently interested in
 - NLP : [Fairseq](https://github.com/pytorch/fairseq), [ParlAI](https://github.com/facebookresearch/ParlAI), [pororo](https://github.com/kakaobrain/pororo)
 - Speech : [SpeechBrain](https://github.com/speechbrain/speechbrain)
 - Parallelism : [DeepSpeed](https://github.com/microsoft/DeepSpeed), [Megatron-LM](https://github.com/NVIDIA/Megatron-LM), [torchgpipe](https://github.com/kakaobrain/torchgpipe)
