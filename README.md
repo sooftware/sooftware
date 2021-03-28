@@ -11,7 +11,7 @@
   
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
 
-I would introduce myself as an AI research engineer more than a research scientist. My goal is to make Jarvis in the movie Iron Man - so I am very interested in deep learning techniques such as speech recognition, speech synthesis, and open-domain dialogue. Recently I began a startup with 5 co-founding members--all of them were my team mates at Kakao Brain. We named our startup **TUNiB**. We looking for talented colleagues to work with at TUNiB. You can check more information about TUNiB at [here](http://www.tunib.ai/). If you are interested, don't hesitate to contact me! (kaki.ai@tunib.ai)
+I would introduce myself as an AI research engineer more than a research scientist. My goal is to make Jarvis in the movie Iron Man - so I am very interested in deep learning techniques such as speech recognition, speech synthesis, and open-domain dialogue. Recently I began a startup with 5 co-founding members--all of them were my team mates at Kakao Brain. We named our startup **TUNiB**. We looking for talented colleagues to work with. You can check more information about TUNiB at [here](http://www.tunib.ai/). If you are interested, don't hesitate to contact me! (kaki.ai@tunib.ai)
   
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
