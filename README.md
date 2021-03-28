@@ -13,11 +13,6 @@
 
 I would introduce myself as an AI research engineer more than a research scientist. My goal is to make Jarvis in the movie Iron Man - so I am very interested in deep learning techniques such as speech recognition, speech synthesis, and open-domain dialogue. Recently I began a startup with 5 co-founding members--all of them were my team mates at Kakao Brain. We named our startup **TUNiB**. We looking for talented colleagues to work with at TUNiB. You can check more information about TUNiB at [here](http://www.tunib.ai/). If you are interested, don't hesitate to contact me! (kaki.ai@tunib.ai)
   
-## Professional Experience
-- `2021.03 ~ Present`: AI Research Engineer & Co-founder of [TUNiB Inc.](http://www.tunib.ai/)
-- `2020.08 ~ 2021.02`: AI Research Engineer at [Kakao Brain](https://www.kakaobrain.com).
-- `2020.04 ~ 2020.08`: Undergraduate Researcher at [Spoken Language Lab](http://speech.sogang.ac.kr/).
-  
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
