@@ -9,7 +9,7 @@
   <a href="https://github.com/sooftware/sooftware/blob/master/CV.pdf"><img src="https://img.shields.io/badge/Résumé-blue?style=flat-square&logo=LaTex&logoColor=white&"></a>
 </p>
   
-<p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
 
 I would introduce myself as an AI research engineer more than a research scientist. My dream is to make artificial intelligence like Jarvis in the movie Iron Man - so I am very interested in deep learning techniques such as speech recognition, speech synthesis, and open-domain dialogue. Recently I began a startup with 5 co-founding members--all of them were my team mates at Kakao Brain. We named our startup **TUNiB**. We looking for talented colleagues to work with. You can check more information at our [Web site](http://www.tunib.ai/). If you are interested, don't hesitate to contact me! (kaki.ai@tunib.ai)
   
