@@ -2,7 +2,7 @@
   
 <p  align="center">
   <a href="https://github.com/sooftware"><img src="https://komarev.com/ghpvc/?username=sooftware"></a>
-  <a href="https://sooftware.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"></a>
+  <a href="https://blog.naver.com/sooftware"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/Soo-hwan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:kaki.ai@tunib.ai"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/sooftware95"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white"></a>
