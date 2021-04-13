@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/Soo-hwan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:kaki.ai@tunib.ai"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/sooftware95"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="https://github.com/sooftware/sooftware/blob/master/CV.pdf"><img src="https://img.shields.io/badge/Résumé-blue?style=flat-square&logo=LaTex&logoColor=white&"></a>
+  <a href="https://github.com/sooftware/sooftware/blob/master/CV.pdf"><img src="https://img.shields.io/badge/CV-blue?style=flat-square&logo=LaTex&logoColor=white&"></a>
 </p>
   
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
