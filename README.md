@@ -1,5 +1,7 @@
 ## <h1  align="center">Hi, I am Soohwan Kim. 👨🏼‍💻 </h1>
   
+<p align=center> NLP · Speech Research Engineer </p>  
+  
 <p  align="center">
   <a href="https://github.com/sooftware"><img src="https://komarev.com/ghpvc/?username=sooftware"></a>
   <a href="https://blog.naver.com/sooftware"><img src="http://img.shields.io/badge/-Tech%20blog-04CF5B?style=flat-square&logo=naver&logoColor=white"></a>
