@@ -1,6 +1,6 @@
 ## <h1  align="center">Hi, I am Soohwan Kim. 👨🏼‍💻 </h1>
   
-<p align=center> NLP · Speech Research Engineer </p>  
+<p align=center> AI Research Engineer · Software Developer</p>  
   
 <p  align="center">
   <a href="https://github.com/sooftware"><img src="https://komarev.com/ghpvc/?username=sooftware"></a>
