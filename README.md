@@ -11,7 +11,7 @@
   <a href="https://github.com/sooftware/sooftware/blob/master/CV.pdf"><img src="https://img.shields.io/badge/Resume-blue?style=flat-square&logo=LaTex&logoColor=white&"></a>
 </p>
   
-<p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/me.png" alt="Coder GIF" width="400" height="320">
+<p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
 
 I would like to introduce myself as an AI research engineer rather than a research scientist. My dream is to create conversational A.I. who people emotionally engage with - so I am very interested in deep learning techniques such as speech recognition, speech synthesis, open-domain dialogue, and model parallelism. Recently I began a startup with 5 co-founding members - all of them were my teammates at Kakao Brain. We named our startup **TUNiB**. We are looking for talented colleagues to work with. You can check more information on our [website](http://www.tunib.ai/). If you are interested, please don't hesitate to contact me. (kaki.ai@tunib.ai)
   
