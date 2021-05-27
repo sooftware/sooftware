@@ -17,7 +17,7 @@ I would like to introduce myself as an AI research engineer rather than a resear
   
 <p  align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=sooftware&theme=onedark">
+<img src="https://github-profile-trophy.vercel.app/?username=sooftware&theme=onedark2&column=4">
   
 <!--
 **sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
