@@ -5,13 +5,13 @@
     
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code+lover;NLP+Engineer+at+TUNiB&height=45"></a>
+  <a href="https://github.com/sooftware/sooftware"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code+lover;NLP+Engineer+at+TUNiB&height=45"></a>
 </p>
 
 <p align="center">
-  <a href=""><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-  <a href=""><img src="https://img.shields.io/github/followers/sooftware?style=social"></a>
-  <a href=""><img src="https://img.shields.io/github/stars/sooftware?style=social"></a>
+  <a href="https://github.com/sooftware/sooftware"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+  <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/followers/sooftware?style=social"></a>
+  <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/stars/sooftware?style=social"></a>
 </p>
   
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
