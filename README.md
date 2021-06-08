@@ -1,34 +1,41 @@
-## <h1  align="center">Hi, I am Soohwan Kim. 👨🏼‍💻 </h1>
+<h3 align="center">
+  Welcome to Soohwan Kim's profile!
+</h3>
   
-<p align=center> AI Research Engineer · Software Developer</p>  
-  
-<p  align="center">
-  <a href="https://github.com/sooftware"><img src="https://komarev.com/ghpvc/?username=sooftware"></a>
-  <a href="https://blog.naver.com/sooftware"><img src="http://img.shields.io/badge/-Tech%20blog-04CF5B?style=flat-square&logo=naver&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/Soo-hwan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:kaki.ai@tunib.ai"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/sooftware95"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="https://github.com/sooftware/sooftware/blob/master/CV.pdf"><img src="https://img.shields.io/badge/Resume-blue?style=flat-square&logo=LaTex&logoColor=white&"></a>
+    
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code+lover;NLP+Engineer+at+TUNiB&height=45"></a>
+</p>
+
+<p align="center">
+  <a href=""><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+  <a href=""><img src="https://img.shields.io/github/followers/sooftware?style=social"></a>
+  <a href=""><img src="https://img.shields.io/github/stars/sooftware?style=social"></a>
 </p>
   
-<p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
+<h2 align="center">  
+  📘  Open-source project
+</h2>
 
-I would like to introduce myself as an AI research engineer rather than a research scientist. My dream is to create conversational AI who people emotionally engage with - so I am very interested in deep learning techniques such as speech recognition, speech synthesis, open-domain dialogue. Recently I began a startup with 5 co-founding members - all of them were my teammates at Kakao Brain. We named our startup [**TUNiB**](http://www.tunib.ai/). We are looking for talented colleagues to work with. If you are interested, please don't hesitate to contact me. (kaki.ai@tunib.ai)
+***
   
+<p align="center">
+  <a href="https://github.com/rahuldkjain/github-profile-readme-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kakaobrain&repo=pororo&theme=react&hide_border=true&show_icons=false" alt="github-profile-readme-generator"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=openspeech&theme=react&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sooftware&repo=KoSpeech&theme=react&hide_border=true&show_icons=false" alt="simple-icons"></a>
+  <a href="https://github.com/Justineo/github-hovercard"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sooftware&repo=conformer&theme=react&hide_border=true&show_icons=false" alt="github-hovercard"></a>
+  <a href="https://github.com/Justineo/github-hovercard"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=kakaobrain&repo=nlp-paper-reading&theme=react&hide_border=true&show_icons=false" alt="github-hovercard"></a>
+  <a href="https://github.com/Justineo/github-hovercard"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sooftware&repo=attentions&theme=react&hide_border=true&show_icons=false" alt="github-hovercard"></a>
+   
+<h2 align="center">
+  🔥 Contributions:
+</h>
+   
+***
+   
 <p  align="center">
-  
-  
-<!--
-**sooftware/sooftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-Here are some ideas to get you started:
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sooftware&theme=react"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=sooftware&theme=react-dark" width=800>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
