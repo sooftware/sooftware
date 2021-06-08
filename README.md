@@ -1,14 +1,17 @@
-## <h1  align="center">Hi, I am Soohwan Kim. 👨🏼‍💻 </h1>
+<h3 align="center">
+  Welcome to Soohwan Kim's profile!
+</h3>
   
-<p align=center> AI Research Engineer · Software Developer</p>  
-  
-<p  align="center">
-  <a href="https://github.com/sooftware"><img src="https://komarev.com/ghpvc/?username=sooftware"></a>
-  <a href="https://blog.naver.com/sooftware"><img src="http://img.shields.io/badge/-Tech%20blog-04CF5B?style=flat-square&logo=naver&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/Soo-hwan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:kaki.ai@tunib.ai"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/sooftware95"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="https://github.com/sooftware/sooftware/blob/master/CV.pdf"><img src="https://img.shields.io/badge/Resume-blue?style=flat-square&logo=LaTex&logoColor=white&"></a>
+    
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code+lover;NLP+Engineer+at+TUNiB&height=45"></a>
+</p>
+
+<p align="center">
+  <a href=""><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+  <a href=""><img src="https://img.shields.io/github/followers/sooftware?style=social"></a>
+  <a href=""><img src="https://img.shields.io/github/stars/sooftware?style=social"></a>
 </p>
   
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
