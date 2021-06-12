@@ -31,11 +31,10 @@ Hi! My name is Soohwan Kim and I live in South Korea. My github ID `sooftware` i
 #### Speech open-source projects
 - [OpenSpeech](https://github.com/sooftware/OpenSpeech) - Framework that enables easy creation of speech recognition models of various models and various languages.
 - [KoSpeech](https://github.com/sooftware/KoSpeech) - Framework for making speech recognizers specialized in Korean easily.
-- [conformer](https://github.com/sooftware/conformer) - Pytorch implementation of "Conformer: Convolution-augmented Transformer for Speech Recognition".  
-- [tacotron2](https://github.com/sooftware/tacotron2) - Pytorch implementation of "Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions".
+- [Conformer](https://github.com/sooftware/conformer) - Pytorch implementation of "Conformer: Convolution-augmented Transformer for Speech Recognition".  
+- [Tacotron2](https://github.com/sooftware/tacotron2) - Pytorch implementation of "Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions".
 - [KsponSpeech](https://github.com/sooftware/ksponspeech) - Project that preprocess speech datasets called KsponSpeech in various ways.
 - [Fairseq-Listen-Attend-Spell](https://github.com/sooftware/Fairseq-Listen-Attend-Spell) - Implementation of "Listen, Attend and Spell" using Fairseq.
-- [Speech-Transformer](https://github.com/sooftware/speech-transformer) - Pytorch implementation of "Speech-Transformer: A No-Recurrence Seq2seq Model for Speech Recognition"
   
 #### Misc
 - [pytorch-lr-scheduler](https://github.com/sooftware/pytorch-lr-scheduler) - Collection of lr schedulers that I often use.
