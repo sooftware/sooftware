@@ -24,7 +24,6 @@ Hi! My name is Soohwan Kim and I live in South Korea. My github ID sooftware is 
     
 #### NLP open-source projects
 - [pororo](https://github.com/kakaobrain/pororo) - A library that can solve more than 30 natural language processing tasks in just 3-4 lines with pre-trained models.
-- [nlp-paper-reading](https://github.com/kakaobrain/nlp-paper-reading) - The nlp paper reading study I did when I was in Kakao Brain.  
 - [attentions](https://github.com/sooftware/attentions) - A project is a collection of attention mechanisms that I implemented while studying attention.
   
 #### Speech open-source projects
@@ -33,7 +32,9 @@ Hi! My name is Soohwan Kim and I live in South Korea. My github ID sooftware is 
 - [conformer](https://github.com/sooftware/conformer) - A project that implements a speech recognition model named Conformer.  
 - [tacotron2](https://github.com/sooftware/tacotron2) - A project to implement speech synthesis model named tacotron2.
 - [KsponSpeech](https://github.com/sooftware/ksponspeech) - A project that preprocess speech datasets called KsponSpeech in various ways.
-- [speech-paper-reading](https://github.com/speech-paper-reading/speech-paper-reading) - The speech processing paper reading study.
+- [Fairseq-Listen-Attend-Spell](https://github.com/sooftware/Fairseq-Listen-Attend-Spell) - A project that implement Listen, Attend Spell model using Fairseq.
   
 #### Misc
 - [pytorch-lr-scheduler](https://github.com/sooftware/pytorch-lr-scheduler) - A project that has been released by gathering lr schedulers that I often use.
+- [nlp-paper-reading](https://github.com/kakaobrain/nlp-paper-reading) - The nlp paper reading study I did when I was in Kakao Brain.  
+- [speech-paper-reading](https://github.com/speech-paper-reading/speech-paper-reading) - The speech processing paper reading study.
