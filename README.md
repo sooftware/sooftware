@@ -34,10 +34,10 @@ Hi! My name is Soohwan Kim and I live in South Korea. My github ID `sooftware` i
 - [conformer](https://github.com/sooftware/conformer) - Pytorch implementation of "Conformer: Convolution-augmented Transformer for Speech Recognition".  
 - [tacotron2](https://github.com/sooftware/tacotron2) - Pytorch implementation of "Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions".
 - [KsponSpeech](https://github.com/sooftware/ksponspeech) - Project that preprocess speech datasets called KsponSpeech in various ways.
-- [Fairseq-Listen-Attend-Spell](https://github.com/sooftware/Fairseq-Listen-Attend-Spell) - Project that implement Listen, Attend Spell model using Fairseq.
-- [Speech-Transformer](https://github.com/sooftware/speech-transformer) - Pytorch implementation of "Speech-Transformer: A No-Recurrence Sequence-to-Sequence Model for Speech Recognition"
+- [Fairseq-Listen-Attend-Spell](https://github.com/sooftware/Fairseq-Listen-Attend-Spell) - Implementation of "Listen, Attend and Spell" using Fairseq.
+- [Speech-Transformer](https://github.com/sooftware/speech-transformer) - Pytorch implementation of "Speech-Transformer: A No-Recurrence Seq2seq Model for Speech Recognition"
   
 #### Misc
 - [pytorch-lr-scheduler](https://github.com/sooftware/pytorch-lr-scheduler) - Collection of lr schedulers that I often use.
-- [nlp-paper-reading](https://github.com/kakaobrain/nlp-paper-reading) - The nlp paper reading study I did when I was in Kakao Brain.  
-- [speech-paper-reading](https://github.com/speech-paper-reading/speech-paper-reading) - The speech processing paper reading study.
+- [nlp-paper-reading](https://github.com/kakaobrain/nlp-paper-reading) - NLP paper reading study I did when I was in Kakao Brain.  
+- [speech-paper-reading](https://github.com/speech-paper-reading/speech-paper-reading) - Speech processing paper reading study.
