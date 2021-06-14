@@ -7,12 +7,12 @@
 <p align="center">
   <a href="https://github.com/sooftware/sooftware"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code+lover;NLP+Engineer+at+TUNiB&height=45"></a>
 </p>
-
+  
 <p align="center">
   <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/followers/sooftware?style=social"></a>
   <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/stars/sooftware?style=social"></a>
   <a href="https://github.com/sooftware/sooftware"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-  <a href="https://sites.google.com/view/sooftware/cv"><img src="https://img.shields.io/badge/resume-available-success"></a>
+  <a href="https://sites.google.com/view/sooftware"><img src="https://img.shields.io/badge/webpage-click?&logo=PagerDuty&logoColor=white"></a>
 </p>
   
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
