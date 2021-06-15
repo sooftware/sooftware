@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/followers/sooftware?style=social"></a>
   <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/stars/sooftware?style=social"></a>
-  <a href="https://github.com/sooftware/sooftware"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
   <a href="https://sites.google.com/view/sooftware"><img src="https://img.shields.io/badge/webpage-click?&logo=GoFundMe&logoColor=white"></a>
   <a href="http://www.tunib.ai/"><img src="https://img.shields.io/badge/TUNiB- ?&logo=CodeChef&logoColor=white"></a>
 </p>
