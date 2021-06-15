@@ -12,7 +12,8 @@
   <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/followers/sooftware?style=social"></a>
   <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/stars/sooftware?style=social"></a>
   <a href="https://github.com/sooftware/sooftware"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-  <a href="https://sites.google.com/view/sooftware"><img src="https://img.shields.io/badge/webpage-click?&logo=PagerDuty&logoColor=white"></a>
+  <a href="https://sites.google.com/view/sooftware"><img src="https://img.shields.io/badge/webpage-click?&logo=GoFundMe&logoColor=white"></a>
+  <a href="http://www.tunib.ai/"><img src="https://img.shields.io/badge/TUNiB- ?&logo=CodeChef&logoColor=white"></a>
 </p>
   
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
