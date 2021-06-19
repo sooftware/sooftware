@@ -18,6 +18,5 @@
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
   
 Hi! My name is Soohwan Kim and I live in South Korea 🇰🇷. My github ID `sooftware` is a combination of `Soohwan` and `software`.   
-I am an AI engineer dreaming to make human-like AI. I have expertise in speech and natural language processing among artificial intelligence fields. As I support the open-source philosophy, I made some open-sources hoping to help others.   
-Currently, I am working at [TUNiB](http://www.tunib.ai/).
+I am an AI engineer dreaming to make human-like AI. I have expertise in speech and natural language processing among artificial intelligence fields. Currently, I am working at [TUNiB](http://www.tunib.ai/). You can check more details about me at [here](https://sites.google.com/view/sooftware).
 
