@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://sites.google.com/view/sooftware"><img src="https://user-images.githubusercontent.com/42150335/122650790-c0229900-d16f-11eb-88d1-c4d418a28431.png" width=500></a>
-    </p>
+<h1 align="center">Soohwan Kim</h1>
     
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
 <p align="center">
