@@ -15,5 +15,5 @@
   
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
   
-I would like to introduce myself as an artificial intelligence research engineer rather than a research scientist. My dream is to create conversational digital humans who people emotionally engage with - so I am very interested in deep learning techniques such as speech recognition, speech synthesis, and open-domain dialogue. Recently I began a startup with 5 co-founding members - all of them were my teammates at Kakao Brain. We named our startup TUNiB. We are looking for talented colleagues to work with. If you are interested, please don't hesitate to contact me.
+I would like to introduce myself as an artificial intelligence research engineer rather than a research scientist. My dream is to create conversational digital humans who people emotionally engage with - so I am very interested in deep learning techniques such as speech recognition, speech synthesis, and open-domain dialogue. Recently I began a startup with 5 co-founding members - all of them were my teammates at Kakao Brain. We named our startup **[TUNiB](http://www.tunib.ai/)**. We are looking for talented colleagues to work with. If you are interested, please don't hesitate to contact me.
 
