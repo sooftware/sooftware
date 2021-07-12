@@ -7,10 +7,8 @@
 -->
   
 <p align="center">
-  <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/followers/sooftware?style=social"></a>
-  <a href="https://github.com/sooftware/sooftware"><img src="https://img.shields.io/github/stars/sooftware?style=social"></a>
-  <a href="https://sites.google.com/view/sooftware"><img src="https://img.shields.io/badge/webpage-8EC220?&logo=GoFundMe&logoColor=white"></a>
-  <a href="https://github.com/sooftware/sooftware/blob/master/Awesome_CV.pdf"><img src="https://img.shields.io/badge/resume-8EC220?&logo=GoFundMe&logoColor=white"></a>  
+  <a href="https://sites.google.com/view/sooftware"><img src="https://img.shields.io/badge/More about me-8EC220?&logo=GoFundMe&logoColor=white"></a>
+</a>  
 </p>
   
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
