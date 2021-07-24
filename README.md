@@ -13,6 +13,7 @@ I am an AI Research Engineer at [TUNiB](http://www.tunib.ai/) in South Korea ðŸ‡
 - Big Language Modeling
 - Open-domain Conversational AI
 - Speech Recognition / Speech Synthesis
+- Startup
   
 ### ðŸ“« How to reach me
   
