@@ -1,6 +1,6 @@
 ## Hi, I'm Soohwan Kim. <img src="https://h5p.org/sites/default/files/h5p/content/295752/images/file-5b73018c5fa4b.gif" width="30px">   
   
-I am an AI Research Engineer at [TUNiB](http://www.tunib.ai/) in South Korea 🇰🇷.  
+I am a Co-founder & AI Engineer at [TUNiB](http://www.tunib.ai/) in South Korea 🇰🇷.  
   
 ### 🚀  Recent Works
   
