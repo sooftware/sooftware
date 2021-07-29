@@ -10,7 +10,7 @@ I am a Co-founder & AI Engineer at [TUNiB](http://www.tunib.ai/) in South Korea 
   
 ### 🎧  My Interests
 
-- Big Language Modeling
+- Large Scale Language Modeling
 - Open-domain Conversational AI
 - Speech Recognition / Speech Synthesis
 - Startup
