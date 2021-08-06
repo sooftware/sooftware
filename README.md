@@ -5,7 +5,7 @@ I am a Co-founder & AI Engineer at [TUNiB](http://www.tunib.ai/) in Republic of 
 ### 🚀  Recent Works
   
 - Developing Large Scale Language Model for Korean.
-- 1st Ranked at the [2021 AI Online Competition - Conversational Emotion Classification Track](https://www.aiconnect.kr/main/competition/detail/194/competitionInfo) in South Korea.
+- 1st Ranked at the [2021 AI Online Competition - Conversational Emotion Classification Track](https://www.aiconnect.kr/main/competition/detail/194/competitionInfo) in Republic of Korea 🇰🇷.  
 - Speech recognition open-source [openspeech](https://github.com/openspeech-team/openspeech) release.
   
 ### 🎧  My Interests
