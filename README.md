@@ -10,4 +10,3 @@ I love speech and natural language processing.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sh951011@gmail.com)](mailto:sh951011@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sooftware95)](https://www.facebook.com/sooftware95)
 
-![](https://github.com/sooftware/sooftware/blob/output/github-contribution-grid-snake.gif)
