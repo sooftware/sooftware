@@ -2,7 +2,7 @@
 
 ### I'm [Soohwan Kim](https://sites.google.com/view/sooftware)
   
-Co-founder & A.I. research engineer at ***[TUNiB](http://tunib.ai)***.   
+Co-founder & A.I. research engineer of ***[TUNiB](http://tunib.ai)***.   
 I love speech and natural language processing.  
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://sooftware.io)	
