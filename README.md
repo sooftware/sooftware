@@ -11,3 +11,4 @@ I love speech and natural language processing.
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sooftware95)](https://www.facebook.com/sooftware95)  
 <img src="https://img.shields.io/github/stars/sooftware?style=flat-square"> <img src="https://img.shields.io/github/followers/sooftware?style=flat-square">
 
+**Contact** 📫 sh951011@gmail.com or kaki.ai@tunib.ai
