@@ -18,6 +18,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://sooftware.io/resume"><img height="40px" alt="Dev.to" title="RESUME" src="https://user-images.githubusercontent.com/42150335/155544588-df5570fc-9cb1-4c3a-86a1-3cc0f51af135.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:sh951011@gmail.com"><img width="45px" alt="Dev.to" title="MAIL" src="https://user-images.githubusercontent.com/42150335/155552776-f1a4096c-293f-4d31-86d6-16abb09f6f1b.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
