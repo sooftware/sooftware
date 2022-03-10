@@ -8,9 +8,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&width=440&lines=Co-founder+of+a+startup+named+TUNiB;Experienced+A.I.+research+engineer;Always+learning+new+things"></a>
 </p>
 
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.facebook.com/sooftware95"><img width="40px" alt="Dev.to" title="Facebook" src="https://user-images.githubusercontent.com/42150335/155542167-1814c134-7c6d-4bc4-8d1d-6be7382d6f13.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.instagram.com/sooftware_/"><img width="40px" alt="Dev.to" title="Facebook" src="https://user-images.githubusercontent.com/42150335/157730175-3434dcf6-cc7f-450c-8de0-e0fd1b9e891e.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/Soo-hwan/"><img width="40px" alt="Dev.to" title="LinkedIn" src="https://user-images.githubusercontent.com/42150335/155542427-8373ce73-cbde-4863-841a-98bc5f135674.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
