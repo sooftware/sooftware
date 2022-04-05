@@ -1,40 +1,18 @@
-<h3 align="center">
-  Welcome to Soohwan Kim's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&width=440&lines=Co-founder+of+a+startup+named+TUNiB;Experienced+A.I.+research+engineer;Always+learning+new+things"></a>
-</p>
-
-
+## Soohwan Kim @ sooftware
+  
+I am an A.I. research engineer in the speech and natural language processing fields.   
+Currently, co-founder of a tech startup named [**TUNiB**](https://tunib.ai), which makes open-domain chatbots.  
+  
+I'm looking for good people to work with at **TUNiB**. (A.I. Engineer, MLOps, Backend, Frontend, whatever 🤗)   
+If you are interested in me or our company, please feel free to contact me at kaki.ai@tunib.ai.
+  
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/sooftware95"><img width="40px" alt="Dev.to" title="Facebook" src="https://user-images.githubusercontent.com/42150335/155542167-1814c134-7c6d-4bc4-8d1d-6be7382d6f13.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/sooftware_/"><img width="40px" alt="Dev.to" title="Facebook" src="https://user-images.githubusercontent.com/42150335/157730175-3434dcf6-cc7f-450c-8de0-e0fd1b9e891e.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/Soo-hwan/"><img width="40px" alt="Dev.to" title="LinkedIn" src="https://user-images.githubusercontent.com/42150335/155542427-8373ce73-cbde-4863-841a-98bc5f135674.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://sooftware.io"><img width="40px" alt="Dev.to" title="BLOG" src="https://user-images.githubusercontent.com/42150335/155542924-296e62bc-2a1a-4df9-a6a8-cef02a9de3e1.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://sooftware.io/resume"><img height="40px" alt="Dev.to" title="RESUME" src="https://user-images.githubusercontent.com/42150335/155544588-df5570fc-9cb1-4c3a-86a1-3cc0f51af135.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:sh951011@gmail.com"><img width="45px" alt="Dev.to" title="MAIL" src="https://user-images.githubusercontent.com/42150335/155552776-f1a4096c-293f-4d31-86d6-16abb09f6f1b.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/sooftware95"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=black">
+  <a href="https://www.instagram.com/sooftware_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black">
+  <a href="https://www.linkedin.com/in/Soo-hwan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black">
+  <a href="https://www.sooftware.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  <a href="https://sooftware.io/resume"><img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </p>
 
 <br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-<p align="center">
-  <a href="https://github.com/sooftware?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sooftware"/></a>
-  <a href="https://github.com/sooftware?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sooftware?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-</p>
