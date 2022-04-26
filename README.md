@@ -1,7 +1,7 @@
 ## Soohwan Kim @ sooftware
   
 I am an A.I. research engineer in the speech and natural language processing fields.   
-Currently, co-founder of an A.I. tech startup named [**TUNiB**](https://tunib.ai), which makes open-domain chatbots.  
+Currently, co-founder of an A.I. tech startup named [**TUNiB**](https://tunib.ai) and we make open-domain chatbots.  
   
 I'm looking for good people to work with at **TUNiB**. (A.I. Engineer, MLOps, Backend, Frontend, whatever 🤗)   
 If you are interested in me or our company, please feel free to contact me at kaki.ai@tunib.ai.
