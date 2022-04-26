@@ -3,7 +3,7 @@
 I am an A.I. research engineer in the speech and natural language processing fields.   
 Currently, co-founder of an A.I. tech startup named [**TUNiB**](https://tunib.ai) and we make open-domain chatbots.  
   
-I'm looking for enthusiastic people to work with at **TUNiB**. (A.I. Engineer, MLOps, Backend, Frontend, whatever 🤗)   
+We are looking for people with enthusiasm to join our growing team. (A.I. Engineer, MLOps, Backend, Frontend, whatever 🤗)   
 If you are interested in me or our company, please feel free to contact me at kaki.ai@tunib.ai.
   
 <!-- Social icons section -->
