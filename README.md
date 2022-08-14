@@ -16,6 +16,10 @@
   
 ### 🏆 Competitions
 - 🥇 2022 National AI Online Competition - NLP
-- 🥉 2021 National AI Grand Challenge - SLU
+- 🥉 2021 National AI Grand Challenge - Speech
 - 🥇 2021 National AI Online Competition - NLP
-- 🥉 2020 National AI Grand Challenge - SLU
+- 🥉 2020 National AI Grand Challenge - Speech
+
+### 💬 Contact
+Please check out the above badges to contact me.  
+Please use Github's issue function if it's related to my open-source.
