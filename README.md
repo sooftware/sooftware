@@ -9,7 +9,7 @@
 ### 🔭  Career
 - Co-founder / AI Engineer at [**TUNiB**](https://www.tunib.ai/)
 - Former AI Engineer at [**Kakao Brain**](https://www.kakaobrain.com/) (Full-time job) 
-- Former Research Intern at the [**Spoken Language Lab**](https://speech.sogang.ac.kr/speech/index.html) at Sogang University
+- Former Research Intern at [**Spoken Language Lab**](https://speech.sogang.ac.kr/speech/index.html) at Sogang University
   
 ### 🎓 Education
 - B.E. in School of Electronic and Communication, Kwangwoon University
