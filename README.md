@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/sooftware/sooftware/blob/master/images/octocat.gif" width=250>
 
-### I'm [Soohwan Kim](https://sites.google.com/view/sooftware)  
+### I'm [Soohwan Kim](https://sooftware.io/resume)  
   
 Co-founder & A.I. research engineer of **[TUNiB](http://tunib.ai)**.   
 I love speech and natural language processing.  
