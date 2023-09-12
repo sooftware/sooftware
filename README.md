@@ -7,8 +7,8 @@
   
 #### Career
 
-- (2021.03 ~ present) Co-founder & A.I. Lead at [TUNiB](https://www.tunib.ai/)
-- (2020.08 ~ 2021.03) A.I. Engineer at [Kakao Brain](https://www.kakaobrain.com/)
+- Co-founder & A.I. Lead at [TUNiB](https://www.tunib.ai/) `2021.03 ~ present`
+- A.I. Engineer at [Kakao Brain](https://www.kakaobrain.com/) `2020.08 ~ 2021.03`
 
 #### Service
 
