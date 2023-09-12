@@ -1,12 +1,23 @@
-<img align="left" src="https://github.com/sooftware/sooftware/blob/master/images/octocat.gif" width=250>
-
 ### I'm [Soohwan Kim](https://sooftware.io/resume)  
+
+<a href="https://www.facebook.com/sooftware95/"><img src="https://img.shields.io/badge/facebook-000000?&logo=facebook&logoColor=white">
+<a href="https://www.linkedin.com/in/Soo-hwan/"><img src="https://img.shields.io/badge/linkedin-000000?&logo=linkedin&logoColor=white">
+<a href="https://sooftware.io"><img src="https://img.shields.io/badge/blog-000000?&logo=bloglovin&logoColor=white">
+<a href="https://sooftware.io/resume"><img src="https://img.shields.io/badge/résumé-000000?&logo=awesomelists&logoColor=white">
   
-Co-founder & A.I. research engineer of **[TUNiB](http://tunib.ai)**.   
-I love speech and natural language processing.  
-  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://sooftware.io)	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Soo-hwan/)](https://www.linkedin.com/in/Soo-hwan/)	
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sooftware95)](https://www.facebook.com/sooftware95)
-[![Resume Badge](https://img.shields.io/badge/Résumé-d14836?style=flat-square&logo=readme&logoColor=white&link=https://github.com/sooftware/sooftware/blob/master/CV.pdf)](https://github.com/sooftware/sooftware/blob/master/CV.pdf)  
-<img src="https://img.shields.io/github/stars/sooftware?style=flat-square"> <img src="https://img.shields.io/github/followers/sooftware?style=flat-square">
+#### Career
+
+- (2021.03 ~ present) Co-founder & A.I. Lead at [TUNiB](https://www.tunib.ai/)
+- (2020.08 ~ 2021.03) A.I. Engineer at [Kakao Brain](https://www.kakaobrain.com/)
+
+#### Service
+
+- [Dearmate](https://dearmate.ai/) : AI chatbot platform with a variety of characters with unique personas
+- [TUNiBridge](https://tunibridge.ai/) : NLP Cloud API Services
+
+#### Competitions
+
+- 🥉 2022 National AI Grand Challenge - *Policy assited AI* (**Minister's Award**)
+- 🥇 2022 National AI Online Competition - *NLP Track* (**Minister's Award**)
+- 🥉 2021 National AI Grand Challenge - *Speech Understanding Track*
+- 🥇 2021 National AI Online Competition - *Conversational Sentiment Classification Track*
