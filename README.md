@@ -7,13 +7,13 @@
   
 #### Career
 
-- Co-founder & A.I. Lead at [TUNiB](https://www.tunib.ai/) `2021.03 ~ present`
-- A.I. Engineer at [Kakao Brain](https://www.kakaobrain.com/) `2020.08 ~ 2021.03`
+- Co-founder & A.I. Lead at [**TUNiB**](https://www.tunib.ai/) `2021.03 ~ present`
+- A.I. Engineer at [**Kakao Brain**](https://www.kakaobrain.com/) `2020.08 ~ 2021.03`
 
 #### Service
 
-- [Dearmate](https://dearmate.ai/) : AI chatbot platform with a variety of characters with unique personas
-- [TUNiBridge](https://tunibridge.ai/) : NLP Cloud API Services
+- [**Dearmate**](https://dearmate.ai/) : AI chatbot platform with a variety of characters with unique personas
+- [**TUNiBridge**](https://tunibridge.ai/) : NLP Cloud API Services
 
 #### Competitions
 
