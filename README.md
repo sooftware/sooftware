@@ -7,7 +7,7 @@
   
 #### Career
 
-- Co-founder & AI team leader at [**TUNiB**](https://www.tunib.ai/) `2021.03 ~ present`
+- Co-founder & A.I. team leader at [**TUNiB**](https://www.tunib.ai/) `2021.03 ~ present`
 - A.I. Engineer at [**Kakao Brain**](https://www.kakaobrain.com/) `2020.08 ~ 2021.03`
 
 #### Service
@@ -17,7 +17,7 @@
 
 #### Competitions
 
-- 🥉 2022 National AI Grand Challenge - *Policy assited AI* (**Minister's Award**)
-- 🥇 2022 National AI Online Competition - *NLP Track* (**Minister's Award**)
-- 🥉 2021 National AI Grand Challenge - *Speech Understanding Track*
-- 🥇 2021 National AI Online Competition - *Conversational Sentiment Classification Track*
+- 🥉 2022 National A.I. Grand Challenge - *Policy assited AI* (**Minister's Award**)
+- 🥇 2022 National A.I. Online Competition - *NLP Track* (**Minister's Award**)
+- 🥉 2021 National A.I. Grand Challenge - *Speech Understanding Track*
+- 🥇 2021 National A.I. Online Competition - *Conversational Sentiment Classification Track*
