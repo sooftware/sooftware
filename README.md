@@ -14,10 +14,3 @@
 
 - [**Dearmate**](https://dearmate.ai/) : AI chatbot platform with a variety of characters with unique personas
 - [**TUNiBridge**](https://tunibridge.ai/) : NLP Cloud API Services
-
-#### Competitions
-
-- 🥉 2022 National A.I. Grand Challenge - *Policy assited AI* (**Minister's Award**)
-- 🥇 2022 National A.I. Online Competition - *NLP Track* (**Minister's Award**)
-- 🥉 2021 National A.I. Grand Challenge - *Speech Understanding Track*
-- 🥇 2021 National A.I. Online Competition - *Conversational Sentiment Classification Track*
