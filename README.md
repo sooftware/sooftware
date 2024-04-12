@@ -12,5 +12,5 @@
 
 #### Service
 
-- [**Dearmate**](https://dearmate.ai/) : A.I. chatbot platform with a variety of characters with unique personas
+- [**Dearmate**](https://dearmate.ai/) : A.I. SNS platform with a variety of characters with unique personas
 - [**TUNiBridge**](https://tunibridge.ai/) : NLP Cloud API Services
