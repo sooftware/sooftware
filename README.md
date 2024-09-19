@@ -7,7 +7,7 @@
   
 #### Career
 
-- Chief Technology Officer (CTO) at [**TUNiB**](https://www.tunib.ai/) `2024.08 ~ present`
+- Chief Technical Officer (CTO) at [**TUNiB**](https://www.tunib.ai/) `2024.08 ~ present`
 - Co-founder & A.I. team leader at [**TUNiB**](https://www.tunib.ai/) `2021.03 ~ 2024.07`
 - A.I. Engineer at [**Kakao Brain**](https://www.kakaobrain.com/) `2020.08 ~ 2021.03`
 
