@@ -14,4 +14,4 @@
 #### Service
 
 - [**Dearmate**](https://dearmate.ai/) : A.I. SNS platform with a variety of characters with unique personas
-- [**TUNiBridge**](https://tunibridge.ai/) : NLP Cloud API Services
+- [**Safety Guardrail**](https://safety.tunibridge.ai/) : A collection of AI models designed to ensure ethical, safe, and compliant AI system interactions, featuring various models.
