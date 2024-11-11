@@ -15,3 +15,8 @@
 
 - [**Dearmate**](https://dearmate.ai/) : A.I. SNS platform with a variety of characters with unique personas
 - [**Safety Guardrail**](https://safety.tunibridge.ai/) : A collection of AI models designed to ensure ethical, safe, and compliant AI system interactions, featuring various models.
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/sooftware?pet-id=2" width="1000" height="120"/>
+</a>
+  
