@@ -5,15 +5,19 @@
 <a href="https://sooftware.io"><img src="https://img.shields.io/badge/blog-000000?&logo=bloglovin&logoColor=white">
 <a href="https://sooftware.io/resume"><img src="https://img.shields.io/badge/résumé-000000?&logo=awesomelists&logoColor=white">
   
-#### Career
+#### 💼 Career
 
-- Chief Technical Officer (CTO) at [**TUNiB**](https://www.tunib.ai/) `2024.08 ~ present`
-- Co-founder & A.I. team leader at [**TUNiB**](https://www.tunib.ai/) `2021.03 ~ 2024.07`
-- A.I. Engineer at [**Kakao Brain**](https://www.kakaobrain.com/) `2020.08 ~ 2021.03`
+- **Chief Technical Officer (CTO)** @ [**TUNiB**](https://www.tunib.ai/) `2024.08 ~ present`
+- **Co-founder & A.I. Team Leader** @ [**TUNiB**](https://www.tunib.ai/) `2021.03 ~ 2024.07`
+- **A.I. Engineer** @ [**Kakao Brain**](https://www.kakaobrain.com/) `2020.08 ~ 2021.03`
 
-#### Service
+---
 
-- [**Dearmate**](https://dearmate.ai/) : A.I. SNS platform with a variety of characters with unique personas
-- [**Safety Guardrail**](https://safety.tunibridge.ai/) : A collection of AI models designed to ensure ethical, safe, and compliant AI system interactions, featuring various models.
+#### 🛠️ Projects & Services
 
-  
+- [**Dearmate**](https://safety.tunibridge.ai)  
+  An AI-powered SNS platform featuring diverse characters with unique personas.
+- [**Safety Guardrail**](https://safety.tunibridge.ai)  
+  A suite of AI models ensuring ethical, safe, and responsible AI system behaviors.
+
+---
