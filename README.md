@@ -9,7 +9,7 @@
 
 - **Chief Technical Officer (CTO)** @ [**TUNiB**](https://www.tunib.ai/) `2024.08 ~ present`
 - **Co-founder & A.I. Team Leader** @ [**TUNiB**](https://www.tunib.ai/) `2021.03 ~ 2024.07`
-- **A.I. Engineer** @ [**Kakao Brain**](https://www.kakaobrain.com/) `2020.08 ~ 2021.03`
+- **A.I. Engineer** @ [**Kakao Brain**](https://www.kakaobrain.com/) (merged into [**Kakao**](https://www.kakaocorp.com/)) `2020.08 ~ 2021.03`
 
 ---
 
