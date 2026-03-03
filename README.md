@@ -5,7 +5,7 @@
 <a href="https://sooftware.io"><img src="https://img.shields.io/badge/blog-000000?&logo=bloglovin&logoColor=white">
 <a href="https://sooftware.io/resume"><img src="https://img.shields.io/badge/résumé-000000?&logo=awesomelists&logoColor=white">
   
-#### Experience
+### Experience
 
 - <img src="https://avatars.githubusercontent.com/u/79139576" width="16" style="border-radius:3px; vertical-align:middle"/> &nbsp;**[tunib](https://tunib.ai)**
   - CTO & Co-founder — Company management & technical leadership &nbsp;`2024.08 – 2026.03`
