@@ -5,8 +5,37 @@
 <a href="https://sooftware.io"><img src="https://img.shields.io/badge/blog-000000?&logo=bloglovin&logoColor=white">
 <a href="https://sooftware.io/resume"><img src="https://img.shields.io/badge/résumé-000000?&logo=awesomelists&logoColor=white">
   
-#### 💼 Career
+#### Experience
 
-- **Chief Technical Officer (CTO)** @ [**TUNiB**](https://www.tunib.ai/) `2024.08 ~ 2026.03`
-- **Co-founder & A.I. Team Leader** @ [**TUNiB**](https://www.tunib.ai/) `2021.03 ~ 2024.07`
-- **A.I. Engineer** @ [**Kakao Brain**](https://www.kakaobrain.com/) (merged into [**Kakao**](https://www.kakaocorp.com/)) `2020.08 ~ 2021.03`
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img src="https://avatars.githubusercontent.com/u/79139576" width="36" height="36" style="border-radius:8px"/><br/>
+      <sub><b>TUNiB</b></sub>
+    </td>
+    <td>
+      <b>CTO, Co-founder</b><br/>
+      <sub>2024.08 – 2026.03 · Seoul, Korea</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img src="https://avatars.githubusercontent.com/u/79139576" width="36" height="36" style="border-radius:8px"/><br/>
+      <sub><b>TUNiB</b></sub>
+    </td>
+    <td>
+      <b>Co-founder & A.I. Lead</b><br/>
+      <sub>2021.03 – 2024.07 · Seoul, Korea</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img src="https://avatars.githubusercontent.com/u/25736994" width="36" height="36" style="border-radius:8px"/><br/>
+      <sub><b>Kakao Brain</b></sub>
+    </td>
+    <td>
+      <b>A.I. Research Engineer</b><br/>
+      <sub>2020.08 – 2021.03 · Pangyo, Korea</sub>
+    </td>
+  </tr>
+</table>
