@@ -7,35 +7,6 @@
   
 #### Experience
 
-<table>
-  <tr>
-    <td align="center" width="60">
-      <img src="https://avatars.githubusercontent.com/u/79139576" width="36" height="36" style="border-radius:8px"/><br/>
-      <sub><b>TUNiB</b></sub>
-    </td>
-    <td>
-      <b>CTO, Co-founder</b><br/>
-      <sub>2024.08 – 2026.03 · Seoul, Korea</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="60">
-      <img src="https://avatars.githubusercontent.com/u/79139576" width="36" height="36" style="border-radius:8px"/><br/>
-      <sub><b>TUNiB</b></sub>
-    </td>
-    <td>
-      <b>Co-founder & A.I. Lead</b><br/>
-      <sub>2021.03 – 2024.07 · Seoul, Korea</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="60">
-      <img src="https://avatars.githubusercontent.com/u/25736994" width="36" height="36" style="border-radius:8px"/><br/>
-      <sub><b>Kakao Brain</b></sub>
-    </td>
-    <td>
-      <b>A.I. Research Engineer</b><br/>
-      <sub>2020.08 – 2021.03 · Pangyo, Korea</sub>
-    </td>
-  </tr>
-</table>
+- <img src="https://avatars.githubusercontent.com/u/79139576" width="16" style="border-radius:3px; vertical-align:middle"/> &nbsp;**tunib** — CTO & Co-founder `2024.08 – 2026.03`
+- <img src="https://avatars.githubusercontent.com/u/79139576" width="16" style="border-radius:3px; vertical-align:middle"/> &nbsp;**tunib** — A.I. Lead & Co-founder `2021.03 – 2024.07`
+- <img src="https://avatars.githubusercontent.com/u/25736994" width="16" style="border-radius:3px; vertical-align:middle"/> &nbsp;**Kakao Brain** — A.I. Research Engineer `2020.08 – 2021.03`
