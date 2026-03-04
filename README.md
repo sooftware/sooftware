@@ -11,5 +11,5 @@
   - CTO & Co-founder — Company management & technical leadership &nbsp;`2024.08 – 2026.03`
   - A.I. Lead & Co-founder — LLM development, NLP API service, AI SNS platform &nbsp;`2021.03 – 2024.07`
 
-- <img src="https://avatars.githubusercontent.com/u/25736994" width="16" style="border-radius:3px; vertical-align:middle"/> &nbsp;**[Kakao Brain](https://kakaobrain.com)**
+- <img src="https://avatars.githubusercontent.com/u/25736994" width="16" style="border-radius:3px; vertical-align:middle"/> &nbsp;**[Kakao Brain](https://kakaocorp.com)**
   - A.I. Research Engineer — Research & development on speech & natural language processing  &nbsp;`2020.08 – 2021.03`
