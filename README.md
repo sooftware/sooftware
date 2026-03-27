@@ -7,9 +7,6 @@
   
 ### Experience
   
-- 👀 &nbsp;**[Next chapter — TBA](https://github.com/sooftware)**
-  - A.I. Engineer — Stay tuned 👀 &nbsp;`2026.04 –`
-  
 - <img src="https://avatars.githubusercontent.com/u/79139576" width="16" style="border-radius:3px; vertical-align:middle"/> &nbsp;**[tunib](https://tunib.ai)**
   - CTO & Co-founder — Company management & technical leadership &nbsp;`2024.08 – 2026.03`
   - A.I. Lead & Co-founder — LLM development, NLP API service, AI SNS platform &nbsp;`2021.03 – 2024.07`
