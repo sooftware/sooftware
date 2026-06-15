@@ -8,7 +8,7 @@
 ### Experience
 
 - <img src="https://avatars.githubusercontent.com/u/12152522" width="16" style="border-radius:3px; vertical-align:middle"/> &nbsp;**[Karrot](https://daangn.com)**
-  - Machine Learning Engineer — operations &nbsp;`2026.04 –`
+  - Machine Learning Engineer — operations &nbsp;`2026.04 – Present`
   
 - <img src="https://avatars.githubusercontent.com/u/79139576" width="16" style="border-radius:3px; vertical-align:middle"/> &nbsp;**[tunib](https://tunib.ai)**
   - CTO & Co-founder — Company management & technical leadership &nbsp;`2024.08 – 2026.03`
