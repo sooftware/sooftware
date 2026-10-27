@@ -1,6 +1,5 @@
 ### I'm [Soohwan Kim]([https://sooftware.io/resume](https://sooftware.github.io/about/))  
 
-<a href="https://www.linkedin.com/in/sooftware/"><img src="https://img.shields.io/badge/linkedin-000000?&logo=linkedin&logoColor=white">
 <a href="https://sooftware.github.io"><img src="https://img.shields.io/badge/blog-000000?&logo=bloglovin&logoColor=white">
 <a href="https://sooftware.github.io/cv.pdf"><img src="https://img.shields.io/badge/résumé-000000?&logo=awesomelists&logoColor=white"></a>
   
